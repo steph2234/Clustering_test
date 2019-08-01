@@ -1,0 +1,996 @@
+,original_name,parsed_name,decision
+0,Shilbottle Community Hall,"[('Shilbottle', 'LOCATION'), ('Community', 'LOCATION'), ('Hall', 'LOCATION')]",No
+1,of International Education,"[('of', 'O'), ('International', 'O'), ('Education', 'O')]",No
+2,Fisheries Department,"[('Fisheries', 'ORGANIZATION'), ('Department', 'ORGANIZATION')]",Yes
+3,Reuterssudanese Foreign Ministry,"[('Reuterssudanese', 'O'), ('Foreign', 'O'), ('Ministry', 'O')]",No
+4,Botswana National Front Youth League,"[('Botswana', 'ORGANIZATION'), ('National', 'ORGANIZATION'), ('Front', 'ORGANIZATION'), ('Youth', 'ORGANIZATION'), ('League', 'ORGANIZATION')]",Yes
+5,Microsofthotels in Alpinesociety of Exploration Geophysics,"[('Microsofthotels', 'O'), ('in', 'O'), ('Alpinesociety', 'LOCATION'), ('of', 'O'), ('Exploration', 'O'), ('Geophysics', 'O')]",No
+6,Fundraising Team or Young Citizens,"[('Fundraising', 'O'), ('Team', 'O'), ('or', 'O'), ('Young', 'O'), ('Citizens', 'O')]",No
+7,Skills Development Authorityaboriginal Affairs,"[('Skills', 'O'), ('Development', 'O'), ('Authorityaboriginal', 'O'), ('Affairs', 'O')]",No
+8,Appeals Chamber,"[('Appeals', 'O'), ('Chamber', 'O')]",No
+9,Bourne National Cemeteryatlantic Treaty Organization,"[('Bourne', 'ORGANIZATION'), ('National', 'ORGANIZATION'), ('Cemeteryatlantic', 'ORGANIZATION'), ('Treaty', 'ORGANIZATION'), ('Organization', 'ORGANIZATION')]",Yes
+10,Revolving Term Credit Facilities,"[('Revolving', 'O'), ('Term', 'O'), ('Credit', 'O'), ('Facilities', 'O')]",No
+11,in Manhattangrammy Museum in Los Angelesb Supreme Court Justice Glen Parrettalberta River Surfing Associationcara Operations,"[('in', 'O'), ('Manhattangrammy', 'ORGANIZATION'), ('Museum', 'ORGANIZATION'), ('in', 'ORGANIZATION'), ('Los', 'ORGANIZATION'), ('Angelesb', 'ORGANIZATION'), ('Supreme', 'ORGANIZATION'), ('Court', 'ORGANIZATION'), ('Justice', 'ORGANIZATION'), ('Glen', 'ORGANIZATION'), ('Parrettalberta', 'ORGANIZATION'), ('River', 'ORGANIZATION'), ('Surfing', 'ORGANIZATION'), ('Associationcara', 'ORGANIZATION'), ('Operations', 'ORGANIZATION')]",Yes
+12,Wal-martequity Equivalency Investment Programme,"[('Wal-martequity', 'ORGANIZATION'), ('Equivalency', 'ORGANIZATION'), ('Investment', 'ORGANIZATION'), ('Programme', 'ORGANIZATION')]",Yes
+13,District Courteducation,"[('District', 'O'), ('Courteducation', 'O')]",No
+14,National Review Online,"[('National', 'O'), ('Review', 'O'), ('Online', 'O')]",No
+15,European Commissionteam Memberskyodo News Agency,"[('European', 'ORGANIZATION'), ('Commissionteam', 'ORGANIZATION'), ('Memberskyodo', 'ORGANIZATION'), ('News', 'ORGANIZATION'), ('Agency', 'ORGANIZATION')]",Yes
+16,Indiana Department of Healthvista Elementary School,"[('Indiana', 'ORGANIZATION'), ('Department', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Healthvista', 'ORGANIZATION'), ('Elementary', 'ORGANIZATION'), ('School', 'ORGANIZATION')]",Yes
+17,Stanford Universityjackson County Farm Service Agency in Altus,"[('Stanford', 'ORGANIZATION'), ('Universityjackson', 'ORGANIZATION'), ('County', 'ORGANIZATION'), ('Farm', 'ORGANIZATION'), ('Service', 'ORGANIZATION'), ('Agency', 'ORGANIZATION'), ('in', 'O'), ('Altus', 'O')]",Yes
+18,Abilene Civic Centerzacks Investment Research,"[('Abilene', 'ORGANIZATION'), ('Civic', 'ORGANIZATION'), ('Centerzacks', 'ORGANIZATION'), ('Investment', 'ORGANIZATION'), ('Research', 'ORGANIZATION')]",Yes
+19,Postal Servicejourney Medical,"[('Postal', 'O'), ('Servicejourney', 'O'), ('Medical', 'O')]",No
+20,Hungary ap Policebribie Island Environmental Protection Associationrutgers School of Law,"[('Hungary', 'LOCATION'), ('ap', 'O'), ('Policebribie', 'ORGANIZATION'), ('Island', 'ORGANIZATION'), ('Environmental', 'ORGANIZATION'), ('Protection', 'ORGANIZATION'), ('Associationrutgers', 'ORGANIZATION'), ('School', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Law', 'ORGANIZATION')]",Yes
+21,Scotiabank Convention Centre in Niagara Falls,"[('Scotiabank', 'O'), ('Convention', 'O'), ('Centre', 'O'), ('in', 'O'), ('Niagara', 'LOCATION'), ('Falls', 'LOCATION')]",No
+22,Pan Africa Holdings,"[('Pan', 'ORGANIZATION'), ('Africa', 'ORGANIZATION'), ('Holdings', 'ORGANIZATION')]",Yes
+23,Pharmaceuticals Inccanyon Athletic State Tournamentcollege of Life Sciences,"[('Pharmaceuticals', 'ORGANIZATION'), ('Inccanyon', 'ORGANIZATION'), ('Athletic', 'ORGANIZATION'), ('State', 'ORGANIZATION'), ('Tournamentcollege', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Life', 'ORGANIZATION'), ('Sciences', 'ORGANIZATION')]",Yes
+24,Technavio Research Jes Ellacottuniversity of Havana,"[('Technavio', 'ORGANIZATION'), ('Research', 'ORGANIZATION'), ('Jes', 'ORGANIZATION'), ('Ellacottuniversity', 'ORGANIZATION'), ('of', 'O'), ('Havana', 'LOCATION')]",Yes
+25,Motors Daily,"[('Motors', 'O'), ('Daily', 'O')]",No
+26,Water Holdings,"[('Water', 'O'), ('Holdings', 'O')]",No
+27,Global Product Developmenteditorial Department,"[('Global', 'O'), ('Product', 'O'), ('Developmenteditorial', 'O'), ('Department', 'O')]",No
+28,Southwyk Farms Dan River,"[('Southwyk', 'O'), ('Farms', 'O'), ('Dan', 'PERSON'), ('River', 'PERSON')]",No
+29,Daniel Loeb Third Point,"[('Daniel', 'PERSON'), ('Loeb', 'PERSON'), ('Third', 'O'), ('Point', 'O')]",No
+30,Food Servicesservice Above Self,"[('Food', 'O'), ('Servicesservice', 'O'), ('Above', 'O'), ('Self', 'O')]",No
+31,China Tourism Academy,"[('China', 'LOCATION'), ('Tourism', 'O'), ('Academy', 'O')]",No
+32,United Statesm Australia Commercial Solutions Divisionian Harrabin,"[('United', 'ORGANIZATION'), ('Statesm', 'ORGANIZATION'), ('Australia', 'ORGANIZATION'), ('Commercial', 'ORGANIZATION'), ('Solutions', 'ORGANIZATION'), ('Divisionian', 'PERSON'), ('Harrabin', 'PERSON')]",Yes
+33,Bailly Elementary School,"[('Bailly', 'ORGANIZATION'), ('Elementary', 'ORGANIZATION'), ('School', 'ORGANIZATION')]",Yes
+34,Girls,"[('Girls', 'O')]",No
+35,Waukegan Library,"[('Waukegan', 'LOCATION'), ('Library', 'LOCATION')]",No
+36,Senate Permanent Subcommittee on Investigations,"[('Senate', 'ORGANIZATION'), ('Permanent', 'ORGANIZATION'), ('Subcommittee', 'ORGANIZATION'), ('on', 'O'), ('Investigations', 'O')]",Yes
+37,Citigroup Incpetersburg Clearwater,"[('Citigroup', 'ORGANIZATION'), ('Incpetersburg', 'ORGANIZATION'), ('Clearwater', 'ORGANIZATION')]",Yes
+38,Murphys Hotelchrist Community,"[('Murphys', 'O'), ('Hotelchrist', 'O'), ('Community', 'O')]",No
+39,Performance Committee,"[('Performance', 'O'), ('Committee', 'O')]",No
+40,of Alabama Huntsville,"[('of', 'O'), ('Alabama', 'LOCATION'), ('Huntsville', 'LOCATION')]",No
+41,Kenmare Resources,"[('Kenmare', 'O'), ('Resources', 'O')]",No
+42,Folk Music of The,"[('Folk', 'O'), ('Music', 'O'), ('of', 'O'), ('The', 'O')]",No
+43,Missouri Senatecostco,"[('Missouri', 'PERSON'), ('Senatecostco', 'PERSON')]",No
+44,Public Relations Committee,"[('Public', 'ORGANIZATION'), ('Relations', 'ORGANIZATION'), ('Committee', 'ORGANIZATION')]",Yes
+45,National History Day,"[('National', 'O'), ('History', 'O'), ('Day', 'O')]",No
+46,United Statescassia School District,"[('United', 'ORGANIZATION'), ('Statescassia', 'ORGANIZATION'), ('School', 'ORGANIZATION'), ('District', 'ORGANIZATION')]",Yes
+47,us Deputy National Security Adviser,"[('us', 'O'), ('Deputy', 'O'), ('National', 'O'), ('Security', 'O'), ('Adviser', 'O')]",No
+48,Olympics Committee,"[('Olympics', 'O'), ('Committee', 'O')]",No
+49,Earnings Earnings at Fortis Properties,"[('Earnings', 'O'), ('Earnings', 'O'), ('at', 'O'), ('Fortis', 'ORGANIZATION'), ('Properties', 'ORGANIZATION')]",Yes
+50,Land Development Budgeting,"[('Land', 'O'), ('Development', 'O'), ('Budgeting', 'O')]",No
+51,National High Schools Championshipbajaur Agency,"[('National', 'O'), ('High', 'O'), ('Schools', 'O'), ('Championshipbajaur', 'O'), ('Agency', 'O')]",No
+52,Infantry Division in Datu Odin Sinsuat,"[('Infantry', 'ORGANIZATION'), ('Division', 'ORGANIZATION'), ('in', 'O'), ('Datu', 'PERSON'), ('Odin', 'PERSON'), ('Sinsuat', 'PERSON')]",Yes
+53,Big Apple,"[('Big', 'O'), ('Apple', 'O')]",No
+54,Network Functions Virtualizationmount Sinai Medical Center,"[('Network', 'ORGANIZATION'), ('Functions', 'ORGANIZATION'), ('Virtualizationmount', 'ORGANIZATION'), ('Sinai', 'ORGANIZATION'), ('Medical', 'ORGANIZATION'), ('Center', 'ORGANIZATION')]",Yes
+55,Members of Cape Coral Art League,"[('Members', 'O'), ('of', 'O'), ('Cape', 'O'), ('Coral', 'O'), ('Art', 'O'), ('League', 'O')]",No
+56,International Ramayan Melashanghai Organisationservice Battalionremodelers of Fairfieldyoutube,"[('International', 'O'), ('Ramayan', 'PERSON'), ('Melashanghai', 'PERSON'), ('Organisationservice', 'PERSON'), ('Battalionremodelers', 'PERSON'), ('of', 'O'), ('Fairfieldyoutube', 'LOCATION')]",No
+57,Courtney Group,"[('Courtney', 'PERSON'), ('Group', 'PERSON')]",No
+58,Couponz,"[('Couponz', 'PERSON')]",No
+59,International Media Distribution Copyrightbihar Assembly Speaker,"[('International', 'ORGANIZATION'), ('Media', 'ORGANIZATION'), ('Distribution', 'ORGANIZATION'), ('Copyrightbihar', 'ORGANIZATION'), ('Assembly', 'ORGANIZATION'), ('Speaker', 'O')]",Yes
+60,of Delawarecolleyville Police,"[('of', 'O'), ('Delawarecolleyville', 'LOCATION'), ('Police', 'LOCATION')]",No
+61,Holdings Labcorpcanadian National Railway Toronto,"[('Holdings', 'ORGANIZATION'), ('Labcorpcanadian', 'ORGANIZATION'), ('National', 'ORGANIZATION'), ('Railway', 'ORGANIZATION'), ('Toronto', 'ORGANIZATION')]",Yes
+62,Trident Healthservice Halkendall Regional Medical Center,"[('Trident', 'O'), ('Healthservice', 'O'), ('Halkendall', 'O'), ('Regional', 'O'), ('Medical', 'O'), ('Center', 'O')]",No
+63,Legal Aid Council of Nigeria,"[('Legal', 'ORGANIZATION'), ('Aid', 'ORGANIZATION'), ('Council', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Nigeria', 'ORGANIZATION')]",Yes
+64,us Export Import,"[('us', 'O'), ('Export', 'O'), ('Import', 'O')]",No
+65,Army Capabilities Integration Centerexxon Mobil,"[('Army', 'ORGANIZATION'), ('Capabilities', 'ORGANIZATION'), ('Integration', 'ORGANIZATION'), ('Centerexxon', 'ORGANIZATION'), ('Mobil', 'ORGANIZATION')]",Yes
+66,Valleycare Health System of Ohio,"[('Valleycare', 'ORGANIZATION'), ('Health', 'ORGANIZATION'), ('System', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Ohio', 'ORGANIZATION')]",Yes
+67,Yahoonational Judicial Appointments Commission,"[('Yahoonational', 'ORGANIZATION'), ('Judicial', 'ORGANIZATION'), ('Appointments', 'ORGANIZATION'), ('Commission', 'ORGANIZATION')]",Yes
+68,American Red Cross Health,"[('American', 'ORGANIZATION'), ('Red', 'ORGANIZATION'), ('Cross', 'ORGANIZATION'), ('Health', 'ORGANIZATION')]",Yes
+69,Wayne Gretzky Sports Centrecarolina School of Sciencemontgomery County Coroner Officechesapeake Climate Action Network,"[('Wayne', 'PERSON'), ('Gretzky', 'PERSON'), ('Sports', 'ORGANIZATION'), ('Centrecarolina', 'ORGANIZATION'), ('School', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Sciencemontgomery', 'ORGANIZATION'), ('County', 'ORGANIZATION'), ('Coroner', 'ORGANIZATION'), ('Officechesapeake', 'ORGANIZATION'), ('Climate', 'ORGANIZATION'), ('Action', 'ORGANIZATION'), ('Network', 'ORGANIZATION')]",Yes
+70,Market Research Reports Published Onapprentice School at Haltonmanitoba Chamber,"[('Market', 'ORGANIZATION'), ('Research', 'ORGANIZATION'), ('Reports', 'ORGANIZATION'), ('Published', 'ORGANIZATION'), ('Onapprentice', 'ORGANIZATION'), ('School', 'ORGANIZATION'), ('at', 'O'), ('Haltonmanitoba', 'LOCATION'), ('Chamber', 'LOCATION')]",Yes
+71,Clinton Democratic Partygoogle,"[('Clinton', 'PERSON'), ('Democratic', 'O'), ('Partygoogle', 'PERSON')]",No
+72,Action Forcecouncil For Entrepreneurial Development,"[('Action', 'O'), ('Forcecouncil', 'O'), ('For', 'O'), ('Entrepreneurial', 'O'), ('Development', 'O')]",No
+73,Telecom Spectrumalbany State,"[('Telecom', 'ORGANIZATION'), ('Spectrumalbany', 'ORGANIZATION'), ('State', 'ORGANIZATION')]",Yes
+74,Regina Music,"[('Regina', 'PERSON'), ('Music', 'PERSON')]",No
+75,Pathway Genomics as,"[('Pathway', 'O'), ('Genomics', 'O'), ('as', 'O')]",No
+76,Police Executive Research Forummusic Academy,"[('Police', 'O'), ('Executive', 'O'), ('Research', 'O'), ('Forummusic', 'O'), ('Academy', 'O')]",No
+77,Eskenazi Healthgoogle,"[('Eskenazi', 'PERSON'), ('Healthgoogle', 'PERSON')]",No
+78,Civil Affairsdelhi Police Special Cellinformation Bureau on,"[('Civil', 'O'), ('Affairsdelhi', 'O'), ('Police', 'O'), ('Special', 'O'), ('Cellinformation', 'O'), ('Bureau', 'O'), ('on', 'O')]",No
+79,Sony Corporationgoogle,"[('Sony', 'ORGANIZATION'), ('Corporationgoogle', 'ORGANIZATION')]",Yes
+80,Namibia Training Authoritylovington High School Principal Robert Brownnatural Hazards Program Specialist For North Dakotanational Assembly on,"[('Namibia', 'ORGANIZATION'), ('Training', 'ORGANIZATION'), ('Authoritylovington', 'ORGANIZATION'), ('High', 'ORGANIZATION'), ('School', 'ORGANIZATION'), ('Principal', 'ORGANIZATION'), ('Robert', 'ORGANIZATION'), ('Brownnatural', 'ORGANIZATION'), ('Hazards', 'ORGANIZATION'), ('Program', 'ORGANIZATION'), ('Specialist', 'O'), ('For', 'O'), ('North', 'LOCATION'), ('Dakotanational', 'LOCATION'), ('Assembly', 'LOCATION'), ('on', 'O')]",Yes
+81,Bloomberg Lockheed Martin Corporthodox,"[('Bloomberg', 'ORGANIZATION'), ('Lockheed', 'ORGANIZATION'), ('Martin', 'ORGANIZATION'), ('Corporthodox', 'ORGANIZATION')]",Yes
+82,Hardcat,"[('Hardcat', 'PERSON')]",No
+83,Montgomery County Sheriff Officehockey League,"[('Montgomery', 'ORGANIZATION'), ('County', 'ORGANIZATION'), ('Sheriff', 'ORGANIZATION'), ('Officehockey', 'ORGANIZATION'), ('League', 'ORGANIZATION')]",Yes
+84,Jian Wang at Purdue,"[('Jian', 'PERSON'), ('Wang', 'PERSON'), ('at', 'O'), ('Purdue', 'LOCATION')]",No
+85,pm et Pennsylvania Supreme Courtindie Fundu Department of Agriculture,"[('pm', 'O'), ('et', 'O'), ('Pennsylvania', 'ORGANIZATION'), ('Supreme', 'ORGANIZATION'), ('Courtindie', 'ORGANIZATION'), ('Fundu', 'ORGANIZATION'), ('Department', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Agriculture', 'ORGANIZATION')]",Yes
+86,Associated Pressminnesota Soybean Growers,"[('Associated', 'O'), ('Pressminnesota', 'O'), ('Soybean', 'O'), ('Growers', 'O')]",No
+87,Chamber Music on Cambria Records,"[('Chamber', 'O'), ('Music', 'O'), ('on', 'O'), ('Cambria', 'ORGANIZATION'), ('Records', 'ORGANIZATION')]",Yes
+88,Risk Financial Servicesiowa Department of Public Health,"[('Risk', 'ORGANIZATION'), ('Financial', 'ORGANIZATION'), ('Servicesiowa', 'ORGANIZATION'), ('Department', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Public', 'ORGANIZATION'), ('Health', 'ORGANIZATION')]",Yes
+89,Burger Kingunited States Senate,"[('Burger', 'ORGANIZATION'), ('Kingunited', 'ORGANIZATION'), ('States', 'ORGANIZATION'), ('Senate', 'ORGANIZATION')]",Yes
+90,Arab Leaguefarmington Fire Department,"[('Arab', 'O'), ('Leaguefarmington', 'O'), ('Fire', 'O'), ('Department', 'O')]",No
+91,Microsoft on,"[('Microsoft', 'ORGANIZATION'), ('on', 'O')]",Yes
+92,Peel Regional Police,"[('Peel', 'O'), ('Regional', 'O'), ('Police', 'O')]",No
+93,Southern Branch Football Clubbureau of Investigation,"[('Southern', 'O'), ('Branch', 'O'), ('Football', 'O'), ('Clubbureau', 'O'), ('of', 'O'), ('Investigation', 'O')]",No
+94,Civic Centredubai Lynx International Festival of Creativity,"[('Civic', 'O'), ('Centredubai', 'O'), ('Lynx', 'O'), ('International', 'O'), ('Festival', 'O'), ('of', 'O'), ('Creativity', 'O')]",No
+95,Pacific Divisionarmenian Revolutionary Federation Dashnaktsutyun,"[('Pacific', 'O'), ('Divisionarmenian', 'O'), ('Revolutionary', 'O'), ('Federation', 'O'), ('Dashnaktsutyun', 'PERSON')]",No
+96,Presidents Council,"[('Presidents', 'O'), ('Council', 'O')]",No
+97,Arizona Health Care Cost Containment System,"[('Arizona', 'ORGANIZATION'), ('Health', 'ORGANIZATION'), ('Care', 'ORGANIZATION'), ('Cost', 'ORGANIZATION'), ('Containment', 'ORGANIZATION'), ('System', 'ORGANIZATION')]",Yes
+98,Department of Language,"[('Department', 'O'), ('of', 'O'), ('Language', 'O')]",No
+99,Services Fair,"[('Services', 'O'), ('Fair', 'O')]",No
+100,Environmental Opposition Party,"[('Environmental', 'ORGANIZATION'), ('Opposition', 'ORGANIZATION'), ('Party', 'ORGANIZATION')]",Yes
+101,Attorney Officeavago Technologies,"[('Attorney', 'O'), ('Officeavago', 'O'), ('Technologies', 'O')]",No
+102,United Statesconference Center,"[('United', 'O'), ('Statesconference', 'O'), ('Center', 'O')]",No
+103,Ireland Aer Rianta International,"[('Ireland', 'LOCATION'), ('Aer', 'O'), ('Rianta', 'O'), ('International', 'O')]",No
+104,British Chamberuniversity of Hawaii,"[('British', 'O'), ('Chamberuniversity', 'O'), ('of', 'O'), ('Hawaii', 'LOCATION')]",No
+105,Culture Centre,"[('Culture', 'O'), ('Centre', 'O')]",No
+106,Investment Solutions,"[('Investment', 'O'), ('Solutions', 'O')]",No
+107,Healthbureau of Meteorology,"[('Healthbureau', 'PERSON'), ('of', 'O'), ('Meteorology', 'O')]",No
+108,Longhini Sausage Coamerican of Legal Advocatesjohn Bailey Elementary School,"[('Longhini', 'ORGANIZATION'), ('Sausage', 'ORGANIZATION'), ('Coamerican', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Legal', 'ORGANIZATION'), ('Advocatesjohn', 'ORGANIZATION'), ('Bailey', 'ORGANIZATION'), ('Elementary', 'ORGANIZATION'), ('School', 'ORGANIZATION')]",Yes
+109,Community Advocacy,"[('Community', 'O'), ('Advocacy', 'O')]",No
+110,Provident Fundmusic Service,"[('Provident', 'O'), ('Fundmusic', 'O'), ('Service', 'O')]",No
+111,Academy of Country Musicnational of Nigerian Traditional Medical Practitioners,"[('Academy', 'O'), ('of', 'O'), ('Country', 'O'), ('Musicnational', 'O'), ('of', 'O'), ('Nigerian', 'O'), ('Traditional', 'O'), ('Medical', 'O'), ('Practitioners', 'O')]",No
+112,Foreign Affairsghana Real Estates Development,"[('Foreign', 'O'), ('Affairsghana', 'O'), ('Real', 'O'), ('Estates', 'O'), ('Development', 'O')]",No
+113,Quaker Valley Wrestling Associationcode Physics Agencylos Angeles Times,"[('Quaker', 'ORGANIZATION'), ('Valley', 'ORGANIZATION'), ('Wrestling', 'ORGANIZATION'), ('Associationcode', 'ORGANIZATION'), ('Physics', 'ORGANIZATION'), ('Agencylos', 'ORGANIZATION'), ('Angeles', 'ORGANIZATION'), ('Times', 'ORGANIZATION')]",Yes
+114,Spirits Division,"[('Spirits', 'O'), ('Division', 'O')]",No
+115,World Bankaboriginal Affairsministry of Public Security,"[('World', 'O'), ('Bankaboriginal', 'O'), ('Affairsministry', 'O'), ('of', 'O'), ('Public', 'O'), ('Security', 'O')]",No
+116,Motor Corporationworld Service,"[('Motor', 'O'), ('Corporationworld', 'O'), ('Service', 'O')]",No
+117,National Parts,"[('National', 'O'), ('Parts', 'O')]",No
+118,National Wind Mission,"[('National', 'O'), ('Wind', 'O'), ('Mission', 'O')]",No
+119,Brookings Institution Hamiltonnepal Academy of Music,"[('Brookings', 'ORGANIZATION'), ('Institution', 'ORGANIZATION'), ('Hamiltonnepal', 'ORGANIZATION'), ('Academy', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Music', 'ORGANIZATION')]",Yes
+120,Unicoi County Circuit Court,"[('Unicoi', 'ORGANIZATION'), ('County', 'ORGANIZATION'), ('Circuit', 'ORGANIZATION'), ('Court', 'ORGANIZATION')]",Yes
+121,Point,"[('Point', 'O')]",No
+122,Edmund Corky Braune Family Foundationalvarez Marsal Canada,"[('Edmund', 'PERSON'), ('Corky', 'PERSON'), ('Braune', 'PERSON'), ('Family', 'O'), ('Foundationalvarez', 'ORGANIZATION'), ('Marsal', 'ORGANIZATION'), ('Canada', 'ORGANIZATION')]",Yes
+123,News World Communications,"[('News', 'O'), ('World', 'O'), ('Communications', 'O')]",No
+124,Harare Magistrate Courtthomson Reuters,"[('Harare', 'ORGANIZATION'), ('Magistrate', 'ORGANIZATION'), ('Courtthomson', 'ORGANIZATION'), ('Reuters', 'ORGANIZATION')]",Yes
+125,Northshore School District,"[('Northshore', 'ORGANIZATION'), ('School', 'ORGANIZATION'), ('District', 'ORGANIZATION')]",Yes
+126,Polymer Engineering Centerenzumo Groupboundaries Commission,"[('Polymer', 'O'), ('Engineering', 'O'), ('Centerenzumo', 'O'), ('Groupboundaries', 'O'), ('Commission', 'O')]",No
+127,Zealand Cricket Museum Grace,"[('Zealand', 'O'), ('Cricket', 'O'), ('Museum', 'O'), ('Grace', 'PERSON')]",No
+128,Cowfold Parish Counciltransengen,"[('Cowfold', 'O'), ('Parish', 'O'), ('Counciltransengen', 'PERSON')]",No
+129,Davis Samuel Corporate Advisory Services,"[('Davis', 'ORGANIZATION'), ('Samuel', 'ORGANIZATION'), ('Corporate', 'ORGANIZATION'), ('Advisory', 'ORGANIZATION'), ('Services', 'ORGANIZATION')]",Yes
+130,Emergency Servicesderby City Councillinn Group,"[('Emergency', 'ORGANIZATION'), ('Servicesderby', 'ORGANIZATION'), ('City', 'ORGANIZATION'), ('Councillinn', 'ORGANIZATION'), ('Group', 'ORGANIZATION')]",Yes
+131,Community Forestry Program,"[('Community', 'O'), ('Forestry', 'O'), ('Program', 'O')]",No
+132,sg External Affairsscottish Affairs Committeetime Warner Cable,"[('sg', 'O'), ('External', 'O'), ('Affairsscottish', 'O'), ('Affairs', 'O'), ('Committeetime', 'O'), ('Warner', 'O'), ('Cable', 'O')]",No
+133,Housing Land Developmentcentral Branch of The Brooklyn Public Library,"[('Housing', 'ORGANIZATION'), ('Land', 'ORGANIZATION'), ('Developmentcentral', 'ORGANIZATION'), ('Branch', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('The', 'ORGANIZATION'), ('Brooklyn', 'ORGANIZATION'), ('Public', 'ORGANIZATION'), ('Library', 'ORGANIZATION')]",Yes
+134,Sandstorm Gold,"[('Sandstorm', 'O'), ('Gold', 'O')]",No
+135,Supreme Council of The Magistracy,"[('Supreme', 'ORGANIZATION'), ('Council', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('The', 'ORGANIZATION'), ('Magistracy', 'ORGANIZATION')]",Yes
+136,Upcountry Development,"[('Upcountry', 'O'), ('Development', 'O')]",No
+137,Higher Attestation Commissionerickson Oil Products,"[('Higher', 'O'), ('Attestation', 'O'), ('Commissionerickson', 'O'), ('Oil', 'O'), ('Products', 'O')]",No
+138,National Bureau of Investigationexpo Centre,"[('National', 'ORGANIZATION'), ('Bureau', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Investigationexpo', 'ORGANIZATION'), ('Centre', 'ORGANIZATION')]",Yes
+139,Council of International Development Companies,"[('Council', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('International', 'ORGANIZATION'), ('Development', 'ORGANIZATION'), ('Companies', 'ORGANIZATION')]",Yes
+140,Mini,"[('Mini', 'O')]",No
+141,Sorority Life,"[('Sorority', 'O'), ('Life', 'O')]",No
+142,National Science,"[('National', 'O'), ('Science', 'O')]",No
+143,Yahooeuropean,"[('Yahooeuropean', 'PERSON')]",No
+144,Agency Revenues,"[('Agency', 'O'), ('Revenues', 'O')]",No
+145,Clerk Officeoakland High School,"[('Clerk', 'O'), ('Officeoakland', 'O'), ('High', 'O'), ('School', 'O')]",No
+146,United Statesnational News Courtbrown Sugar Corn Starch Frying Oilmiddlesex Community,"[('United', 'ORGANIZATION'), ('Statesnational', 'ORGANIZATION'), ('News', 'ORGANIZATION'), ('Courtbrown', 'ORGANIZATION'), ('Sugar', 'ORGANIZATION'), ('Corn', 'ORGANIZATION'), ('Starch', 'ORGANIZATION'), ('Frying', 'ORGANIZATION'), ('Oilmiddlesex', 'ORGANIZATION'), ('Community', 'ORGANIZATION')]",Yes
+147,Modesto Junior Friends of Music,"[('Modesto', 'O'), ('Junior', 'O'), ('Friends', 'O'), ('of', 'O'), ('Music', 'O')]",No
+148,Communications at Cell,"[('Communications', 'O'), ('at', 'O'), ('Cell', 'O')]",No
+149,Intelligence Service Cura,"[('Intelligence', 'ORGANIZATION'), ('Service', 'ORGANIZATION'), ('Cura', 'PERSON')]",Yes
+150,Health Connection,"[('Health', 'O'), ('Connection', 'O')]",No
+151,Reutersdublin County Council,"[('Reutersdublin', 'ORGANIZATION'), ('County', 'ORGANIZATION'), ('Council', 'ORGANIZATION')]",Yes
+152,United Statesoshkosh Defense,"[('United', 'ORGANIZATION'), ('Statesoshkosh', 'ORGANIZATION'), ('Defense', 'ORGANIZATION')]",Yes
+153,iv Triwest,"[('iv', 'O'), ('Triwest', 'ORGANIZATION')]",Yes
+154,Disneydepartment of Health,"[('Disneydepartment', 'O'), ('of', 'O'), ('Health', 'O')]",No
+155,Diocese of Londonsenate Appropriations Committee on,"[('Diocese', 'O'), ('of', 'O'), ('Londonsenate', 'ORGANIZATION'), ('Appropriations', 'ORGANIZATION'), ('Committee', 'ORGANIZATION'), ('on', 'O')]",Yes
+156,Janssen Pharmaceuticals,"[('Janssen', 'PERSON'), ('Pharmaceuticals', 'PERSON')]",No
+157,Energy Storage System,"[('Energy', 'O'), ('Storage', 'O'), ('System', 'O')]",No
+158,Analysis Committee,"[('Analysis', 'ORGANIZATION'), ('Committee', 'ORGANIZATION')]",Yes
+159,Gateway Medical Group in Clarksville,"[('Gateway', 'ORGANIZATION'), ('Medical', 'ORGANIZATION'), ('Group', 'ORGANIZATION'), ('in', 'O'), ('Clarksville', 'LOCATION')]",Yes
+160,Television Dominicana,"[('Television', 'O'), ('Dominicana', 'PERSON')]",No
+161,Labour Partyorganization For Security,"[('Labour', 'O'), ('Partyorganization', 'O'), ('For', 'O'), ('Security', 'O')]",No
+162,Yarrow Bay Development,"[('Yarrow', 'PERSON'), ('Bay', 'PERSON'), ('Development', 'PERSON')]",No
+163,Pakistan of Medical Sciencesgosports,"[('Pakistan', 'LOCATION'), ('of', 'O'), ('Medical', 'O'), ('Sciencesgosports', 'O')]",No
+164,Navy Rear Adm,"[('Navy', 'ORGANIZATION'), ('Rear', 'ORGANIZATION'), ('Adm', 'ORGANIZATION')]",Yes
+165,Marquette Law School Professor Paul Secunda,"[('Marquette', 'ORGANIZATION'), ('Law', 'ORGANIZATION'), ('School', 'ORGANIZATION'), ('Professor', 'O'), ('Paul', 'PERSON'), ('Secunda', 'PERSON')]",Yes
+166,Utah Restaurant Associationnews Ratings For Solarcity Daily,"[('Utah', 'LOCATION'), ('Restaurant', 'O'), ('Associationnews', 'O'), ('Ratings', 'O'), ('For', 'O'), ('Solarcity', 'O'), ('Daily', 'O')]",No
+167,Program Development Program Implementationascent Solar Technologies,"[('Program', 'O'), ('Development', 'O'), ('Program', 'O'), ('Implementationascent', 'O'), ('Solar', 'O'), ('Technologies', 'O')]",No
+168,Greek National Tourist Officetolmen Centre in Constantineuniversity of Alabama,"[('Greek', 'O'), ('National', 'O'), ('Tourist', 'O'), ('Officetolmen', 'O'), ('Centre', 'O'), ('in', 'O'), ('Constantineuniversity', 'O'), ('of', 'O'), ('Alabama', 'LOCATION')]",No
+169,She an Air Force,"[('She', 'O'), ('an', 'O'), ('Air', 'ORGANIZATION'), ('Force', 'ORGANIZATION')]",Yes
+170,Donald Bren School,"[('Donald', 'PERSON'), ('Bren', 'PERSON'), ('School', 'PERSON')]",No
+171,Neste Oil,"[('Neste', 'ORGANIZATION'), ('Oil', 'ORGANIZATION')]",Yes
+172,Perkasie Economic Developmentexxon Mobil,"[('Perkasie', 'ORGANIZATION'), ('Economic', 'ORGANIZATION'), ('Developmentexxon', 'ORGANIZATION'), ('Mobil', 'ORGANIZATION')]",Yes
+173,Penafort,"[('Penafort', 'PERSON')]",No
+174,Mississippi Department of Public Safety,"[('Mississippi', 'ORGANIZATION'), ('Department', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Public', 'ORGANIZATION'), ('Safety', 'ORGANIZATION')]",Yes
+175,World Health Organization Countrysteaua Bucharest Football,"[('World', 'ORGANIZATION'), ('Health', 'ORGANIZATION'), ('Organization', 'ORGANIZATION'), ('Countrysteaua', 'ORGANIZATION'), ('Bucharest', 'ORGANIZATION'), ('Football', 'ORGANIZATION')]",Yes
+176,Science Department,"[('Science', 'O'), ('Department', 'O')]",No
+177,Programme Implementation kt Rajenthra Bhalaji on,"[('Programme', 'O'), ('Implementation', 'O'), ('kt', 'O'), ('Rajenthra', 'PERSON'), ('Bhalaji', 'PERSON'), ('on', 'O')]",No
+178,Lifestyle Brewsdisability Services John Ajaka,"[('Lifestyle', 'O'), ('Brewsdisability', 'O'), ('Services', 'O'), ('John', 'PERSON'), ('Ajaka', 'PERSON')]",No
+179,National Cardiovascular Data Registry,"[('National', 'ORGANIZATION'), ('Cardiovascular', 'ORGANIZATION'), ('Data', 'ORGANIZATION'), ('Registry', 'ORGANIZATION')]",Yes
+180,Market Research Latest Reports Visitstarbucks,"[('Market', 'O'), ('Research', 'O'), ('Latest', 'O'), ('Reports', 'O'), ('Visitstarbucks', 'O')]",No
+181,Navajo County Community District Governing Board,"[('Navajo', 'LOCATION'), ('County', 'LOCATION'), ('Community', 'O'), ('District', 'O'), ('Governing', 'O'), ('Board', 'O')]",No
+182,Reiland Fine Arts Center,"[('Reiland', 'O'), ('Fine', 'O'), ('Arts', 'O'), ('Center', 'O')]",No
+183,Yahoous International Trade Commission,"[('Yahoous', 'ORGANIZATION'), ('International', 'ORGANIZATION'), ('Trade', 'ORGANIZATION'), ('Commission', 'ORGANIZATION')]",Yes
+184,Associated Pressenglish Premier Leagueindependence Group,"[('Associated', 'O'), ('Pressenglish', 'O'), ('Premier', 'O'), ('Leagueindependence', 'PERSON'), ('Group', 'PERSON')]",No
+185,Development Acquisitionb Supreme Court,"[('Development', 'ORGANIZATION'), ('Acquisitionb', 'ORGANIZATION'), ('Supreme', 'ORGANIZATION'), ('Court', 'ORGANIZATION')]",Yes
+186,Task Force on,"[('Task', 'O'), ('Force', 'O'), ('on', 'O')]",No
+187,Reutersyouth League,"[('Reutersyouth', 'O'), ('League', 'O')]",No
+188,Police Cost Recovery Amendmentpakistan Telecommunication Limitedcongress Legislature Partyexxon Mobil,"[('Police', 'O'), ('Cost', 'O'), ('Recovery', 'O'), ('Amendmentpakistan', 'ORGANIZATION'), ('Telecommunication', 'ORGANIZATION'), ('Limitedcongress', 'ORGANIZATION'), ('Legislature', 'ORGANIZATION'), ('Partyexxon', 'ORGANIZATION'), ('Mobil', 'ORGANIZATION')]",Yes
+189,Beverage,"[('Beverage', 'O')]",No
+190,Source Capital Group,"[('Source', 'ORGANIZATION'), ('Capital', 'ORGANIZATION'), ('Group', 'ORGANIZATION')]",Yes
+191,Sahara International Holdingsmagnum Ngls,"[('Sahara', 'O'), ('International', 'O'), ('Holdingsmagnum', 'O'), ('Ngls', 'O')]",No
+192,Apollo Global Management,"[('Apollo', 'O'), ('Global', 'O'), ('Management', 'O')]",No
+193,Labour Partyanalytical Development Chemistcoalition of The Radical Left,"[('Labour', 'ORGANIZATION'), ('Partyanalytical', 'ORGANIZATION'), ('Development', 'ORGANIZATION'), ('Chemistcoalition', 'ORGANIZATION'), ('of', 'O'), ('The', 'O'), ('Radical', 'O'), ('Left', 'O')]",Yes
+194,Economics Division,"[('Economics', 'O'), ('Division', 'O')]",No
+195,Honolulu City Councileducation,"[('Honolulu', 'LOCATION'), ('City', 'LOCATION'), ('Councileducation', 'LOCATION')]",No
+196,Board of Charter Authority,"[('Board', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Charter', 'ORGANIZATION'), ('Authority', 'ORGANIZATION')]",Yes
+197,Los Gallos Auto Sales,"[('Los', 'ORGANIZATION'), ('Gallos', 'ORGANIZATION'), ('Auto', 'O'), ('Sales', 'O')]",Yes
+198,Worship Ministries,"[('Worship', 'O'), ('Ministries', 'O')]",No
+199,Pilots Alaska Regionalarizona Department of Health Services,"[('Pilots', 'ORGANIZATION'), ('Alaska', 'ORGANIZATION'), ('Regionalarizona', 'ORGANIZATION'), ('Department', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Health', 'ORGANIZATION'), ('Services', 'ORGANIZATION')]",Yes
+200,Communications Workers of Americagrenadines Police Force,"[('Communications', 'ORGANIZATION'), ('Workers', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Americagrenadines', 'ORGANIZATION'), ('Police', 'ORGANIZATION'), ('Force', 'ORGANIZATION')]",Yes
+201,Directvschool Education Department,"[('Directvschool', 'ORGANIZATION'), ('Education', 'ORGANIZATION'), ('Department', 'ORGANIZATION')]",Yes
+202,Paediatric Health Care Providers,"[('Paediatric', 'O'), ('Health', 'O'), ('Care', 'O'), ('Providers', 'O')]",No
+203,Representatives of The European,"[('Representatives', 'O'), ('of', 'O'), ('The', 'O'), ('European', 'O')]",No
+204,Goldman Sachs Group,"[('Goldman', 'ORGANIZATION'), ('Sachs', 'ORGANIZATION'), ('Group', 'ORGANIZATION')]",Yes
+205,Vodafoneassociated Press,"[('Vodafoneassociated', 'O'), ('Press', 'O')]",No
+206,Alberta Innovates Bio Solutions,"[('Alberta', 'ORGANIZATION'), ('Innovates', 'ORGANIZATION'), ('Bio', 'ORGANIZATION'), ('Solutions', 'ORGANIZATION')]",Yes
+207,Degree Assembly,"[('Degree', 'O'), ('Assembly', 'O')]",No
+208,Fox Hollow Banquet Center,"[('Fox', 'ORGANIZATION'), ('Hollow', 'ORGANIZATION'), ('Banquet', 'ORGANIZATION'), ('Center', 'ORGANIZATION')]",Yes
+209,United Stateslondon Stock Exchange,"[('United', 'ORGANIZATION'), ('Stateslondon', 'ORGANIZATION'), ('Stock', 'ORGANIZATION'), ('Exchange', 'ORGANIZATION')]",Yes
+210,Sidoti Companymiami Athletic Ticket Officeuniversity of New Mexico School of Medicine,"[('Sidoti', 'ORGANIZATION'), ('Companymiami', 'ORGANIZATION'), ('Athletic', 'ORGANIZATION'), ('Ticket', 'ORGANIZATION'), ('Officeuniversity', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('New', 'ORGANIZATION'), ('Mexico', 'ORGANIZATION'), ('School', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Medicine', 'ORGANIZATION')]",Yes
+211,School For Social Research Dramatic Workshop,"[('School', 'O'), ('For', 'O'), ('Social', 'ORGANIZATION'), ('Research', 'ORGANIZATION'), ('Dramatic', 'ORGANIZATION'), ('Workshop', 'ORGANIZATION')]",Yes
+212,United Statesoklahoma City Universitydepartment For Education,"[('United', 'ORGANIZATION'), ('Statesoklahoma', 'ORGANIZATION'), ('City', 'ORGANIZATION'), ('Universitydepartment', 'ORGANIZATION'), ('For', 'ORGANIZATION'), ('Education', 'ORGANIZATION')]",Yes
+213,United Statestransparency International United Kingdom Government Defence Anti,"[('United', 'ORGANIZATION'), ('Statestransparency', 'ORGANIZATION'), ('International', 'ORGANIZATION'), ('United', 'ORGANIZATION'), ('Kingdom', 'ORGANIZATION'), ('Government', 'ORGANIZATION'), ('Defence', 'ORGANIZATION'), ('Anti', 'ORGANIZATION')]",Yes
+214,Indiana State Police,"[('Indiana', 'ORGANIZATION'), ('State', 'ORGANIZATION'), ('Police', 'ORGANIZATION')]",Yes
+215,Sinochem Group,"[('Sinochem', 'ORGANIZATION'), ('Group', 'ORGANIZATION')]",Yes
+216,James Morgan Bay in st,"[('James', 'PERSON'), ('Morgan', 'PERSON'), ('Bay', 'PERSON'), ('in', 'O'), ('st', 'O')]",No
+217,Camp Crame Personnel Holding Administrative Section,"[('Camp', 'O'), ('Crame', 'O'), ('Personnel', 'O'), ('Holding', 'O'), ('Administrative', 'O'), ('Section', 'O')]",No
+218,Australian Broadcasting,"[('Australian', 'O'), ('Broadcasting', 'O')]",No
+219,Ten Network,"[('Ten', 'O'), ('Network', 'O')]",No
+220,Academy Brixtonmeteor Mobiles Crescent Shopping Centre,"[('Academy', 'O'), ('Brixtonmeteor', 'O'), ('Mobiles', 'O'), ('Crescent', 'O'), ('Shopping', 'O'), ('Centre', 'O')]",No
+221,Facebooksyrian National Defense,"[('Facebooksyrian', 'ORGANIZATION'), ('National', 'ORGANIZATION'), ('Defense', 'ORGANIZATION')]",Yes
+222,Fonterra Grouparcher Fellows Program,"[('Fonterra', 'ORGANIZATION'), ('Grouparcher', 'O'), ('Fellows', 'O'), ('Program', 'O')]",Yes
+223,Twittervmwaretwitter,"[('Twittervmwaretwitter', 'PERSON')]",No
+224,Hillary Clinton Senate,"[('Hillary', 'PERSON'), ('Clinton', 'PERSON'), ('Senate', 'PERSON')]",No
+225,Business Developmentasian News Service,"[('Business', 'O'), ('Developmentasian', 'ORGANIZATION'), ('News', 'ORGANIZATION'), ('Service', 'ORGANIZATION')]",Yes
+226,ub School of Management,"[('ub', 'ORGANIZATION'), ('School', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Management', 'ORGANIZATION')]",Yes
+227,First Solar Inccm Officecentral Zoo Authority,"[('First', 'ORGANIZATION'), ('Solar', 'ORGANIZATION'), ('Inccm', 'ORGANIZATION'), ('Officecentral', 'ORGANIZATION'), ('Zoo', 'ORGANIZATION'), ('Authority', 'ORGANIZATION')]",Yes
+228,Augsburg Collegestmicroelectronics,"[('Augsburg', 'LOCATION'), ('Collegestmicroelectronics', 'LOCATION')]",No
+229,Communications Division,"[('Communications', 'O'), ('Division', 'O')]",No
+230,Police Onst James Cricket,"[('Police', 'O'), ('Onst', 'PERSON'), ('James', 'PERSON'), ('Cricket', 'PERSON')]",No
+231,National Council of Teachers of English,"[('National', 'ORGANIZATION'), ('Council', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Teachers', 'ORGANIZATION'), ('of', 'O'), ('English', 'O')]",Yes
+232,Blackrock Incinfosys,"[('Blackrock', 'PERSON'), ('Incinfosys', 'PERSON')]",No
+233,Stephens,"[('Stephens', 'PERSON')]",No
+234,Inframat,"[('Inframat', 'PERSON')]",No
+235,Fort Hays State,"[('Fort', 'LOCATION'), ('Hays', 'LOCATION'), ('State', 'LOCATION')]",No
+236,Cambridge Art,"[('Cambridge', 'LOCATION'), ('Art', 'LOCATION')]",No
+237,National of Nursing Research,"[('National', 'O'), ('of', 'O'), ('Nursing', 'O'), ('Research', 'O')]",No
+238,Patterson High School in Wayneuniversity Degree or,"[('Patterson', 'ORGANIZATION'), ('High', 'ORGANIZATION'), ('School', 'ORGANIZATION'), ('in', 'O'), ('Wayneuniversity', 'LOCATION'), ('Degree', 'LOCATION'), ('or', 'O')]",Yes
+239,Broadcasting,"[('Broadcasting', 'O')]",No
+240,Presence Resurrection Medical Center,"[('Presence', 'O'), ('Resurrection', 'O'), ('Medical', 'O'), ('Center', 'O')]",No
+241,Pharmaceuticals Healthcare,"[('Pharmaceuticals', 'O'), ('Healthcare', 'O')]",No
+242,Beloit Mcnair Scholars Programdepartment of Education,"[('Beloit', 'PERSON'), ('Mcnair', 'PERSON'), ('Scholars', 'O'), ('Programdepartment', 'O'), ('of', 'O'), ('Education', 'O')]",No
+243,Jackorganisation For Economic,"[('Jackorganisation', 'O'), ('For', 'O'), ('Economic', 'O')]",No
+244,California Department of Correctionsarmed Forces Special Powers,"[('California', 'ORGANIZATION'), ('Department', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Correctionsarmed', 'ORGANIZATION'), ('Forces', 'ORGANIZATION'), ('Special', 'ORGANIZATION'), ('Powers', 'ORGANIZATION')]",Yes
+245,United Statesnorthwestern Innocence Project Reuters,"[('United', 'ORGANIZATION'), ('Statesnorthwestern', 'ORGANIZATION'), ('Innocence', 'ORGANIZATION'), ('Project', 'ORGANIZATION'), ('Reuters', 'ORGANIZATION')]",Yes
+246,Jamaica Associationrural Energy For America Program,"[('Jamaica', 'ORGANIZATION'), ('Associationrural', 'ORGANIZATION'), ('Energy', 'ORGANIZATION'), ('For', 'ORGANIZATION'), ('America', 'ORGANIZATION'), ('Program', 'ORGANIZATION')]",Yes
+247,Chicago Toastmaster Organization,"[('Chicago', 'ORGANIZATION'), ('Toastmaster', 'ORGANIZATION'), ('Organization', 'ORGANIZATION')]",Yes
+248,United Statespolice Complaint,"[('United', 'O'), ('Statespolice', 'O'), ('Complaint', 'O')]",No
+249,Supreme Court Justice Anthony Kennedyrohtak Post Graduate of Medical Sciences,"[('Supreme', 'ORGANIZATION'), ('Court', 'ORGANIZATION'), ('Justice', 'ORGANIZATION'), ('Anthony', 'ORGANIZATION'), ('Kennedyrohtak', 'ORGANIZATION'), ('Post', 'ORGANIZATION'), ('Graduate', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Medical', 'ORGANIZATION'), ('Sciences', 'ORGANIZATION')]",Yes
+250,Line Internationalnational Electoral Commission,"[('Line', 'O'), ('Internationalnational', 'O'), ('Electoral', 'O'), ('Commission', 'O')]",No
+251,Linda Pratt at Wernick Pratt Agencywestpac Centreuniversity of California,"[('Linda', 'PERSON'), ('Pratt', 'PERSON'), ('at', 'O'), ('Wernick', 'ORGANIZATION'), ('Pratt', 'ORGANIZATION'), ('Agencywestpac', 'ORGANIZATION'), ('Centreuniversity', 'ORGANIZATION'), ('of', 'O'), ('California', 'LOCATION')]",Yes
+252,Tribune Content Agencykenyan Premier Leaguebacanora Minerals,"[('Tribune', 'O'), ('Content', 'O'), ('Agencykenyan', 'O'), ('Premier', 'O'), ('Leaguebacanora', 'PERSON'), ('Minerals', 'PERSON')]",No
+253,Angioscore,"[('Angioscore', 'PERSON')]",No
+254,Ethical Trade Community Poetcom,"[('Ethical', 'O'), ('Trade', 'O'), ('Community', 'O'), ('Poetcom', 'O')]",No
+255,Fourth Annual National Play Hookyahoskie Town Council,"[('Fourth', 'ORGANIZATION'), ('Annual', 'ORGANIZATION'), ('National', 'ORGANIZATION'), ('Play', 'ORGANIZATION'), ('Hookyahoskie', 'ORGANIZATION'), ('Town', 'ORGANIZATION'), ('Council', 'ORGANIZATION')]",Yes
+256,Telecom Spectrumcivil Court,"[('Telecom', 'ORGANIZATION'), ('Spectrumcivil', 'ORGANIZATION'), ('Court', 'ORGANIZATION')]",Yes
+257,Prospectus is Computershare Investor Services Ireland,"[('Prospectus', 'O'), ('is', 'O'), ('Computershare', 'ORGANIZATION'), ('Investor', 'ORGANIZATION'), ('Services', 'ORGANIZATION'), ('Ireland', 'LOCATION')]",Yes
+258,of Viennau Senate Democrats,"[('of', 'O'), ('Viennau', 'ORGANIZATION'), ('Senate', 'ORGANIZATION'), ('Democrats', 'O')]",Yes
+259,Jumeirah Group,"[('Jumeirah', 'ORGANIZATION'), ('Group', 'ORGANIZATION')]",Yes
+260,Court Appointed Special Advocate,"[('Court', 'O'), ('Appointed', 'O'), ('Special', 'O'), ('Advocate', 'O')]",No
+261,London South Eastcity Council,"[('London', 'LOCATION'), ('South', 'O'), ('Eastcity', 'O'), ('Council', 'O')]",No
+262,Merrill Lynch,"[('Merrill', 'ORGANIZATION'), ('Lynch', 'ORGANIZATION')]",Yes
+263,Malay Girls,"[('Malay', 'O'), ('Girls', 'O')]",No
+264,Aberdeen Asset Management,"[('Aberdeen', 'ORGANIZATION'), ('Asset', 'ORGANIZATION'), ('Management', 'ORGANIZATION')]",Yes
+265,Vice Provost For Research,"[('Vice', 'O'), ('Provost', 'O'), ('For', 'O'), ('Research', 'O')]",No
+266,Children Servicecommodity Systems,"[('Children', 'O'), ('Servicecommodity', 'O'), ('Systems', 'O')]",No
+267,Kalispell Police,"[('Kalispell', 'ORGANIZATION'), ('Police', 'ORGANIZATION')]",Yes
+268,Biogen Idec,"[('Biogen', 'ORGANIZATION'), ('Idec', 'ORGANIZATION')]",Yes
+269,Can You Guess Which Honeywell International,"[('Can', 'O'), ('You', 'O'), ('Guess', 'O'), ('Which', 'O'), ('Honeywell', 'O'), ('International', 'O')]",No
+270,Havre de Grace High School,"[('Havre', 'O'), ('de', 'O'), ('Grace', 'ORGANIZATION'), ('High', 'ORGANIZATION'), ('School', 'ORGANIZATION')]",Yes
+271,United Statesaustralian Hypnotherapist,"[('United', 'O'), ('Statesaustralian', 'PERSON'), ('Hypnotherapist', 'PERSON')]",No
+272,Albans Episcopal,"[('Albans', 'PERSON'), ('Episcopal', 'PERSON')]",No
+273,Clean Heritage Colaba Residents Associationhasbro,"[('Clean', 'ORGANIZATION'), ('Heritage', 'ORGANIZATION'), ('Colaba', 'ORGANIZATION'), ('Residents', 'ORGANIZATION'), ('Associationhasbro', 'ORGANIZATION')]",Yes
+274,Division of Global Health,"[('Division', 'O'), ('of', 'O'), ('Global', 'ORGANIZATION'), ('Health', 'ORGANIZATION')]",Yes
+275,Utility Program Developmentnational For Health,"[('Utility', 'O'), ('Program', 'O'), ('Developmentnational', 'O'), ('For', 'O'), ('Health', 'O')]",No
+276,Delhi Airport Metro Express Private,"[('Delhi', 'O'), ('Airport', 'O'), ('Metro', 'O'), ('Express', 'O'), ('Private', 'O')]",No
+277,Program is Joyce Lubbens on Rock,"[('Program', 'O'), ('is', 'O'), ('Joyce', 'PERSON'), ('Lubbens', 'PERSON'), ('on', 'O'), ('Rock', 'O')]",No
+278,Reutersorganization For Security,"[('Reutersorganization', 'O'), ('For', 'O'), ('Security', 'O')]",No
+279,Fatherland Front Committee of Hanoi,"[('Fatherland', 'ORGANIZATION'), ('Front', 'ORGANIZATION'), ('Committee', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Hanoi', 'ORGANIZATION')]",Yes
+280,Animal Health Technologistcity Council,"[('Animal', 'ORGANIZATION'), ('Health', 'ORGANIZATION'), ('Technologistcity', 'ORGANIZATION'), ('Council', 'ORGANIZATION')]",Yes
+281,Associated Presssamsung Electronics,"[('Associated', 'O'), ('Presssamsung', 'O'), ('Electronics', 'O')]",No
+282,Facebookeuropean Central,"[('Facebookeuropean', 'O'), ('Central', 'O')]",No
+283,Tourism Officeoxford,"[('Tourism', 'O'), ('Officeoxford', 'O')]",No
+284,United Statesfamily Planning Commission of The People,"[('United', 'ORGANIZATION'), ('Statesfamily', 'ORGANIZATION'), ('Planning', 'ORGANIZATION'), ('Commission', 'ORGANIZATION'), ('of', 'O'), ('The', 'O'), ('People', 'O')]",Yes
+285,High School in Ongoleschool of Educationabbotsford Department,"[('High', 'ORGANIZATION'), ('School', 'ORGANIZATION'), ('in', 'O'), ('Ongoleschool', 'LOCATION'), ('of', 'O'), ('Educationabbotsford', 'LOCATION'), ('Department', 'LOCATION')]",Yes
+286,Lancaster National Speedway,"[('Lancaster', 'ORGANIZATION'), ('National', 'ORGANIZATION'), ('Speedway', 'ORGANIZATION')]",Yes
+287,Rights Group,"[('Rights', 'O'), ('Group', 'O')]",No
+288,Mississippi of School Superintendents,"[('Mississippi', 'LOCATION'), ('of', 'O'), ('School', 'O'), ('Superintendents', 'O')]",No
+289,Leaders Companyconfederation of British Industry,"[('Leaders', 'O'), ('Companyconfederation', 'O'), ('of', 'O'), ('British', 'O'), ('Industry', 'O')]",No
+290,Veterans Outreach Center,"[('Veterans', 'O'), ('Outreach', 'O'), ('Center', 'O')]",No
+291,Burlington Community,"[('Burlington', 'ORGANIZATION'), ('Community', 'ORGANIZATION')]",Yes
+292,Queensland Disaster Management Services,"[('Queensland', 'ORGANIZATION'), ('Disaster', 'ORGANIZATION'), ('Management', 'ORGANIZATION'), ('Services', 'ORGANIZATION')]",Yes
+293,Transformational Programme,"[('Transformational', 'O'), ('Programme', 'O')]",No
+294,of Stanford,"[('of', 'O'), ('Stanford', 'ORGANIZATION')]",Yes
+295,Public Offering of Tanker Investments,"[('Public', 'ORGANIZATION'), ('Offering', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Tanker', 'ORGANIZATION'), ('Investments', 'ORGANIZATION')]",Yes
+296,Senior Class Council,"[('Senior', 'O'), ('Class', 'O'), ('Council', 'O')]",No
+297,Foreign Affairs md,"[('Foreign', 'O'), ('Affairs', 'O'), ('md', 'O')]",No
+298,United Nations Group of Experts,"[('United', 'ORGANIZATION'), ('Nations', 'ORGANIZATION'), ('Group', 'ORGANIZATION'), ('of', 'O'), ('Experts', 'O')]",Yes
+299,Connecticut Public Television,"[('Connecticut', 'ORGANIZATION'), ('Public', 'ORGANIZATION'), ('Television', 'ORGANIZATION')]",Yes
+300,Newcomers Academy,"[('Newcomers', 'O'), ('Academy', 'O')]",No
+301,Nongovernmental International Panel on Climate,"[('Nongovernmental', 'ORGANIZATION'), ('International', 'ORGANIZATION'), ('Panel', 'ORGANIZATION'), ('on', 'O'), ('Climate', 'O')]",Yes
+302,Development Partydefence Ministry,"[('Development', 'O'), ('Partydefence', 'O'), ('Ministry', 'O')]",No
+303,United Nationsorganization United For Respect at Wal-mart,"[('United', 'ORGANIZATION'), ('Nationsorganization', 'ORGANIZATION'), ('United', 'ORGANIZATION'), ('For', 'ORGANIZATION'), ('Respect', 'ORGANIZATION'), ('at', 'O'), ('Wal-mart', 'ORGANIZATION')]",Yes
+304,United Statescarter Center,"[('United', 'O'), ('Statescarter', 'O'), ('Center', 'O')]",No
+305,Cable News Network Incenergy Sector Index,"[('Cable', 'O'), ('News', 'O'), ('Network', 'O'), ('Incenergy', 'O'), ('Sector', 'O'), ('Index', 'O')]",No
+306,Speaker of The Legislature Onbreakfast,"[('Speaker', 'O'), ('of', 'O'), ('The', 'O'), ('Legislature', 'ORGANIZATION'), ('Onbreakfast', 'ORGANIZATION')]",Yes
+307,Gull Wings Children Museum,"[('Gull', 'ORGANIZATION'), ('Wings', 'ORGANIZATION'), ('Children', 'ORGANIZATION'), ('Museum', 'ORGANIZATION')]",Yes
+308,Leader of The United Democratic Partynational of Career Colleges,"[('Leader', 'O'), ('of', 'O'), ('The', 'O'), ('United', 'ORGANIZATION'), ('Democratic', 'ORGANIZATION'), ('Partynational', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Career', 'ORGANIZATION'), ('Colleges', 'ORGANIZATION')]",Yes
+309,United Statesvirginia School Board,"[('United', 'ORGANIZATION'), ('Statesvirginia', 'ORGANIZATION'), ('School', 'ORGANIZATION'), ('Board', 'ORGANIZATION')]",Yes
+310,Associated Pressbridgeton Port Authority,"[('Associated', 'ORGANIZATION'), ('Pressbridgeton', 'ORGANIZATION'), ('Port', 'ORGANIZATION'), ('Authority', 'ORGANIZATION')]",Yes
+311,Idacorp Incinternational New York Timesbethel Park Rule Study Commissionmusic Academy,"[('Idacorp', 'ORGANIZATION'), ('Incinternational', 'ORGANIZATION'), ('New', 'ORGANIZATION'), ('York', 'ORGANIZATION'), ('Timesbethel', 'ORGANIZATION'), ('Park', 'ORGANIZATION'), ('Rule', 'ORGANIZATION'), ('Study', 'ORGANIZATION'), ('Commissionmusic', 'ORGANIZATION'), ('Academy', 'ORGANIZATION')]",Yes
+312,Frederico Lombardi Vatican,"[('Frederico', 'PERSON'), ('Lombardi', 'PERSON'), ('Vatican', 'PERSON')]",No
+313,Rutgers Business School,"[('Rutgers', 'ORGANIZATION'), ('Business', 'ORGANIZATION'), ('School', 'ORGANIZATION')]",Yes
+314,European Uniontexas Department of Public Safety,"[('European', 'O'), ('Uniontexas', 'O'), ('Department', 'O'), ('of', 'O'), ('Public', 'O'), ('Safety', 'O')]",No
+315,of Richmond,"[('of', 'O'), ('Richmond', 'LOCATION')]",No
+316,International Inclondon Jewish Cultural Centre in Golders Green,"[('International', 'O'), ('Inclondon', 'O'), ('Jewish', 'O'), ('Cultural', 'O'), ('Centre', 'O'), ('in', 'O'), ('Golders', 'LOCATION'), ('Green', 'LOCATION')]",No
+317,Office in Manchestera District Courtchampions League,"[('Office', 'O'), ('in', 'O'), ('Manchestera', 'LOCATION'), ('District', 'O'), ('Courtchampions', 'O'), ('League', 'O')]",No
+318,Lake Winnie Resort Associationtanda Medical,"[('Lake', 'O'), ('Winnie', 'O'), ('Resort', 'O'), ('Associationtanda', 'O'), ('Medical', 'O')]",No
+319,Ministry of Defencesummit Hall Elementary School in Gaithersburgsenate Majority Floor Leader Damon Thayer,"[('Ministry', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Defencesummit', 'ORGANIZATION'), ('Hall', 'ORGANIZATION'), ('Elementary', 'ORGANIZATION'), ('School', 'ORGANIZATION'), ('in', 'O'), ('Gaithersburgsenate', 'LOCATION'), ('Majority', 'LOCATION'), ('Floor', 'LOCATION'), ('Leader', 'O'), ('Damon', 'PERSON'), ('Thayer', 'PERSON')]",Yes
+320,Nbos Wholesale Groupst Luke Bombed Out,"[('Nbos', 'O'), ('Wholesale', 'O'), ('Groupst', 'O'), ('Luke', 'O'), ('Bombed', 'O'), ('Out', 'O')]",No
+321,National Suicide Prevention Lifelines State Department,"[('National', 'ORGANIZATION'), ('Suicide', 'ORGANIZATION'), ('Prevention', 'ORGANIZATION'), ('Lifelines', 'ORGANIZATION'), ('State', 'ORGANIZATION'), ('Department', 'ORGANIZATION')]",Yes
+322,National Weather Servicecinema Politica Networkjapan,"[('National', 'O'), ('Weather', 'O'), ('Servicecinema', 'PERSON'), ('Politica', 'PERSON'), ('Networkjapan', 'PERSON')]",No
+323,Department of Defenceengland Medical Center,"[('Department', 'O'), ('of', 'O'), ('Defenceengland', 'LOCATION'), ('Medical', 'LOCATION'), ('Center', 'LOCATION')]",No
+324,Okinawa Prefectural Police,"[('Okinawa', 'ORGANIZATION'), ('Prefectural', 'ORGANIZATION'), ('Police', 'ORGANIZATION')]",Yes
+325,Rainy Day Fundpeabody Energy,"[('Rainy', 'O'), ('Day', 'O'), ('Fundpeabody', 'O'), ('Energy', 'O')]",No
+326,Los Angeles Unified School District,"[('Los', 'LOCATION'), ('Angeles', 'LOCATION'), ('Unified', 'O'), ('School', 'O'), ('District', 'O')]",No
+327,Eurobodalla Shire Council,"[('Eurobodalla', 'ORGANIZATION'), ('Shire', 'ORGANIZATION'), ('Council', 'ORGANIZATION')]",Yes
+328,Catalyst Growers Forum,"[('Catalyst', 'O'), ('Growers', 'O'), ('Forum', 'O')]",No
+329,Judicial District Court,"[('Judicial', 'ORGANIZATION'), ('District', 'ORGANIZATION'), ('Court', 'ORGANIZATION')]",Yes
+330,Development Authoritysouthern League Divisionburger King Worldwide,"[('Development', 'O'), ('Authoritysouthern', 'O'), ('League', 'O'), ('Divisionburger', 'O'), ('King', 'O'), ('Worldwide', 'O')]",No
+331,Southern Foodways Alliancela Times,"[('Southern', 'ORGANIZATION'), ('Foodways', 'ORGANIZATION'), ('Alliancela', 'ORGANIZATION'), ('Times', 'ORGANIZATION')]",Yes
+332,Duquesne,"[('Duquesne', 'PERSON')]",No
+333,Macmillan Space Centrehouston County Farm Bureau,"[('Macmillan', 'ORGANIZATION'), ('Space', 'ORGANIZATION'), ('Centrehouston', 'ORGANIZATION'), ('County', 'ORGANIZATION'), ('Farm', 'ORGANIZATION'), ('Bureau', 'ORGANIZATION')]",Yes
+334,Terrorism Center,"[('Terrorism', 'O'), ('Center', 'O')]",No
+335,Parliament Housesanta Clara Universityflorida State,"[('Parliament', 'ORGANIZATION'), ('Housesanta', 'ORGANIZATION'), ('Clara', 'ORGANIZATION'), ('Universityflorida', 'ORGANIZATION'), ('State', 'ORGANIZATION')]",Yes
+336,Greensburg Religious Vocation Council,"[('Greensburg', 'LOCATION'), ('Religious', 'O'), ('Vocation', 'O'), ('Council', 'O')]",No
+337,Helen Diller Family Comprehensive Cancer Centerhours Bail Support Service,"[('Helen', 'PERSON'), ('Diller', 'PERSON'), ('Family', 'O'), ('Comprehensive', 'O'), ('Cancer', 'O'), ('Centerhours', 'O'), ('Bail', 'O'), ('Support', 'O'), ('Service', 'O')]",No
+338,Little River Railroad Museum,"[('Little', 'LOCATION'), ('River', 'LOCATION'), ('Railroad', 'LOCATION'), ('Museum', 'LOCATION')]",No
+339,Work Projects Administration,"[('Work', 'O'), ('Projects', 'O'), ('Administration', 'O')]",No
+340,Edward Via Virginia of Osteopathic Medicine,"[('Edward', 'PERSON'), ('Via', 'PERSON'), ('Virginia', 'PERSON'), ('of', 'O'), ('Osteopathic', 'O'), ('Medicine', 'O')]",No
+341,John Harrison Cultural Centerjoe Wray at Tonda Enterprises,"[('John', 'PERSON'), ('Harrison', 'PERSON'), ('Cultural', 'PERSON'), ('Centerjoe', 'PERSON'), ('Wray', 'PERSON'), ('at', 'O'), ('Tonda', 'ORGANIZATION'), ('Enterprises', 'ORGANIZATION')]",Yes
+342,United Statestrump Plaz Hotel Cas on The Boardwalknational Fleet,"[('United', 'ORGANIZATION'), ('Statestrump', 'ORGANIZATION'), ('Plaz', 'ORGANIZATION'), ('Hotel', 'ORGANIZATION'), ('Cas', 'ORGANIZATION'), ('on', 'O'), ('The', 'O'), ('Boardwalknational', 'O'), ('Fleet', 'O')]",Yes
+343,Malaysia Airlinesnorthern Alliance,"[('Malaysia', 'LOCATION'), ('Airlinesnorthern', 'LOCATION'), ('Alliance', 'LOCATION')]",No
+344,Sparks Health System,"[('Sparks', 'O'), ('Health', 'O'), ('System', 'O')]",No
+345,Bathurst Base Hospital,"[('Bathurst', 'O'), ('Base', 'O'), ('Hospital', 'O')]",No
+346,Cadillac Fairview,"[('Cadillac', 'ORGANIZATION'), ('Fairview', 'ORGANIZATION')]",Yes
+347,Eastern Ontario Development Program,"[('Eastern', 'ORGANIZATION'), ('Ontario', 'ORGANIZATION'), ('Development', 'ORGANIZATION'), ('Program', 'ORGANIZATION')]",Yes
+348,Provident Organisationsintex Industriescastlight Healththomson Reuters,"[('Provident', 'O'), ('Organisationsintex', 'PERSON'), ('Industriescastlight', 'PERSON'), ('Healththomson', 'PERSON'), ('Reuters', 'PERSON')]",No
+349,Turkish Airlines to Cambodia,"[('Turkish', 'ORGANIZATION'), ('Airlines', 'ORGANIZATION'), ('to', 'O'), ('Cambodia', 'LOCATION')]",Yes
+350,Protection Groupmunicipal Office Centertelemark Trade Office,"[('Protection', 'ORGANIZATION'), ('Groupmunicipal', 'ORGANIZATION'), ('Office', 'ORGANIZATION'), ('Centertelemark', 'ORGANIZATION'), ('Trade', 'ORGANIZATION'), ('Office', 'ORGANIZATION')]",Yes
+351,Ettinger Law Firm,"[('Ettinger', 'O'), ('Law', 'O'), ('Firm', 'O')]",No
+352,Fauji Cement,"[('Fauji', 'O'), ('Cement', 'O')]",No
+353,Pizza Hutmuchea Livestock Centreyork Regional Policeappeals Court,"[('Pizza', 'ORGANIZATION'), ('Hutmuchea', 'ORGANIZATION'), ('Livestock', 'ORGANIZATION'), ('Centreyork', 'ORGANIZATION'), ('Regional', 'ORGANIZATION'), ('Policeappeals', 'ORGANIZATION'), ('Court', 'ORGANIZATION')]",Yes
+354,Beaufort Grocery Coworld Health Organization,"[('Beaufort', 'ORGANIZATION'), ('Grocery', 'ORGANIZATION'), ('Coworld', 'ORGANIZATION'), ('Health', 'ORGANIZATION'), ('Organization', 'ORGANIZATION')]",Yes
+355,Derby Dining Centers,"[('Derby', 'O'), ('Dining', 'O'), ('Centers', 'O')]",No
+356,Educational Research Newsletter,"[('Educational', 'ORGANIZATION'), ('Research', 'ORGANIZATION'), ('Newsletter', 'ORGANIZATION')]",Yes
+357,Schemel Forum,"[('Schemel', 'PERSON'), ('Forum', 'PERSON')]",No
+358,Central China Power Grid,"[('Central', 'ORGANIZATION'), ('China', 'ORGANIZATION'), ('Power', 'ORGANIZATION'), ('Grid', 'ORGANIZATION')]",Yes
+359,Polytec Holding ag Supervisory Boardjones Center,"[('Polytec', 'ORGANIZATION'), ('Holding', 'ORGANIZATION'), ('ag', 'ORGANIZATION'), ('Supervisory', 'ORGANIZATION'), ('Boardjones', 'ORGANIZATION'), ('Center', 'ORGANIZATION')]",Yes
+360,Uganda Chamber,"[('Uganda', 'LOCATION'), ('Chamber', 'O')]",No
+361,International Ombudsman,"[('International', 'O'), ('Ombudsman', 'O')]",No
+362,Madison Audubon Societyghana Divisionenglish Premier League,"[('Madison', 'O'), ('Audubon', 'O'), ('Societyghana', 'O'), ('Divisionenglish', 'O'), ('Premier', 'O'), ('League', 'O')]",No
+363,Wentworth Shire Councilsierra,"[('Wentworth', 'PERSON'), ('Shire', 'PERSON'), ('Councilsierra', 'PERSON')]",No
+364,Time Dance Training Centre at Kirraweeglaxosmithkline,"[('Time', 'O'), ('Dance', 'O'), ('Training', 'O'), ('Centre', 'O'), ('at', 'O'), ('Kirraweeglaxosmithkline', 'LOCATION')]",No
+365,Vanderbilt Universityskeleton Coast National Parkal Safat Tech Holding,"[('Vanderbilt', 'ORGANIZATION'), ('Universityskeleton', 'ORGANIZATION'), ('Coast', 'ORGANIZATION'), ('National', 'ORGANIZATION'), ('Parkal', 'ORGANIZATION'), ('Safat', 'ORGANIZATION'), ('Tech', 'ORGANIZATION'), ('Holding', 'ORGANIZATION')]",Yes
+366,Northern Emancipation Networkbusiness Development or Investor Contacts,"[('Northern', 'O'), ('Emancipation', 'O'), ('Networkbusiness', 'O'), ('Development', 'O'), ('or', 'O'), ('Investor', 'O'), ('Contacts', 'O')]",No
+367,Farm Smart Program,"[('Farm', 'O'), ('Smart', 'O'), ('Program', 'O')]",No
+368,Howe Heating Air Conditioning,"[('Howe', 'ORGANIZATION'), ('Heating', 'ORGANIZATION'), ('Air', 'ORGANIZATION'), ('Conditioning', 'ORGANIZATION')]",Yes
+369,News Service of Florida Dara Kam,"[('News', 'O'), ('Service', 'O'), ('of', 'O'), ('Florida', 'LOCATION'), ('Dara', 'PERSON'), ('Kam', 'PERSON')]",No
+370,Human Servicessteve Prescott,"[('Human', 'O'), ('Servicessteve', 'PERSON'), ('Prescott', 'PERSON')]",No
+371,Downingtown West High Schoolnational Action Plan,"[('Downingtown', 'LOCATION'), ('West', 'LOCATION'), ('High', 'O'), ('Schoolnational', 'O'), ('Action', 'O'), ('Plan', 'O')]",No
+372,Reutersasian Companies,"[('Reutersasian', 'O'), ('Companies', 'O')]",No
+373,Martinsburg va Police Departmenttennessee Department of Transportationjerry Bruckheimer Televisionwalmart,"[('Martinsburg', 'LOCATION'), ('va', 'O'), ('Police', 'O'), ('Departmenttennessee', 'O'), ('Department', 'O'), ('of', 'O'), ('Transportationjerry', 'PERSON'), ('Bruckheimer', 'PERSON'), ('Televisionwalmart', 'PERSON')]",No
+374,Bay State Milling,"[('Bay', 'LOCATION'), ('State', 'LOCATION'), ('Milling', 'LOCATION')]",No
+375,Graphite One Resources,"[('Graphite', 'O'), ('One', 'O'), ('Resources', 'O')]",No
+376,Weapons,"[('Weapons', 'O')]",No
+377,Hobart Parks Department,"[('Hobart', 'ORGANIZATION'), ('Parks', 'ORGANIZATION'), ('Department', 'ORGANIZATION')]",Yes
+378,Wells Fargoaccess Investor Kit For Wal-mart Stores,"[('Wells', 'ORGANIZATION'), ('Fargoaccess', 'ORGANIZATION'), ('Investor', 'ORGANIZATION'), ('Kit', 'ORGANIZATION'), ('For', 'ORGANIZATION'), ('Wal-mart', 'ORGANIZATION'), ('Stores', 'ORGANIZATION')]",Yes
+379,Norman Others National Audit Officejupiter Energy Kazakhstan Russia,"[('Norman', 'O'), ('Others', 'O'), ('National', 'O'), ('Audit', 'O'), ('Officejupiter', 'O'), ('Energy', 'O'), ('Kazakhstan', 'LOCATION'), ('Russia', 'LOCATION')]",No
+380,Ministry of Educationzoning Commission,"[('Ministry', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Educationzoning', 'ORGANIZATION'), ('Commission', 'ORGANIZATION')]",Yes
+381,Rendezvous Contributed Program Committee,"[('Rendezvous', 'ORGANIZATION'), ('Contributed', 'ORGANIZATION'), ('Program', 'ORGANIZATION'), ('Committee', 'ORGANIZATION')]",Yes
+382,National Park Copyright,"[('National', 'O'), ('Park', 'O'), ('Copyright', 'O')]",No
+383,Rockefeller Centercenter on Budgetdepartment of Homeland Security,"[('Rockefeller', 'O'), ('Centercenter', 'O'), ('on', 'O'), ('Budgetdepartment', 'O'), ('of', 'O'), ('Homeland', 'O'), ('Security', 'O')]",No
+384,Constitution For Senateyale,"[('Constitution', 'O'), ('For', 'O'), ('Senateyale', 'PERSON')]",No
+385,Sonyie Business Schoolcenters For Disease,"[('Sonyie', 'O'), ('Business', 'O'), ('Schoolcenters', 'O'), ('For', 'O'), ('Disease', 'O')]",No
+386,Eagle River Transit Center to Anchorage,"[('Eagle', 'LOCATION'), ('River', 'LOCATION'), ('Transit', 'LOCATION'), ('Center', 'LOCATION'), ('to', 'O'), ('Anchorage', 'LOCATION')]",No
+387,Palestinian Cultural Organization,"[('Palestinian', 'O'), ('Cultural', 'O'), ('Organization', 'O')]",No
+388,Iraqi Security,"[('Iraqi', 'O'), ('Security', 'O')]",No
+389,Billiton Groupnational Labor Relations Board,"[('Billiton', 'ORGANIZATION'), ('Groupnational', 'ORGANIZATION'), ('Labor', 'ORGANIZATION'), ('Relations', 'ORGANIZATION'), ('Board', 'ORGANIZATION')]",Yes
+390,Pinon Mesa Middle Schoolgeorgetown Center on Health Reforms,"[('Pinon', 'ORGANIZATION'), ('Mesa', 'ORGANIZATION'), ('Middle', 'ORGANIZATION'), ('Schoolgeorgetown', 'ORGANIZATION'), ('Center', 'ORGANIZATION'), ('on', 'O'), ('Health', 'O'), ('Reforms', 'O')]",Yes
+391,Wal-martfertility Centers of Illinois,"[('Wal-martfertility', 'O'), ('Centers', 'O'), ('of', 'O'), ('Illinois', 'LOCATION')]",No
+392,Chairperson National Commission,"[('Chairperson', 'O'), ('National', 'O'), ('Commission', 'O')]",No
+393,Royal Bankankara Political Science Department Public Administrationtwitter,"[('Royal', 'ORGANIZATION'), ('Bankankara', 'ORGANIZATION'), ('Political', 'ORGANIZATION'), ('Science', 'ORGANIZATION'), ('Department', 'ORGANIZATION'), ('Public', 'ORGANIZATION'), ('Administrationtwitter', 'ORGANIZATION')]",Yes
+394,Circuit Courtstarbucks,"[('Circuit', 'O'), ('Courtstarbucks', 'PERSON')]",No
+395,Amalfi Milpitas,"[('Amalfi', 'PERSON'), ('Milpitas', 'PERSON')]",No
+396,United Statescenter Conwaychina Information Technology,"[('United', 'ORGANIZATION'), ('Statescenter', 'ORGANIZATION'), ('Conwaychina', 'ORGANIZATION'), ('Information', 'ORGANIZATION'), ('Technology', 'ORGANIZATION')]",Yes
+397,Skill Development,"[('Skill', 'O'), ('Development', 'O')]",No
+398,gt Academy,"[('gt', 'O'), ('Academy', 'O')]",No
+399,Cleveland Clinic Cole Eye Institutepublications at Media Printersenvironmental Protection Agency,"[('Cleveland', 'ORGANIZATION'), ('Clinic', 'ORGANIZATION'), ('Cole', 'ORGANIZATION'), ('Eye', 'ORGANIZATION'), ('Institutepublications', 'ORGANIZATION'), ('at', 'O'), ('Media', 'ORGANIZATION'), ('Printersenvironmental', 'ORGANIZATION'), ('Protection', 'ORGANIZATION'), ('Agency', 'ORGANIZATION')]",Yes
+400,National Socialism,"[('National', 'O'), ('Socialism', 'O')]",No
+401,fe Warren Air,"[('fe', 'O'), ('Warren', 'PERSON'), ('Air', 'PERSON')]",No
+402,Twitterfulton County Sheriff Officefastest Growing Companies,"[('Twitterfulton', 'LOCATION'), ('County', 'LOCATION'), ('Sheriff', 'O'), ('Officefastest', 'O'), ('Growing', 'O'), ('Companies', 'O')]",No
+403,Energy Equipment,"[('Energy', 'O'), ('Equipment', 'O')]",No
+404,Mexico Properties,"[('Mexico', 'LOCATION'), ('Properties', 'O')]",No
+405,International Food Standardjiji Pressinternet,"[('International', 'O'), ('Food', 'O'), ('Standardjiji', 'O'), ('Pressinternet', 'O')]",No
+406,ap Students at Queens Collegemeridian Community Collegenational Center,"[('ap', 'O'), ('Students', 'O'), ('at', 'O'), ('Queens', 'LOCATION'), ('Collegemeridian', 'LOCATION'), ('Community', 'LOCATION'), ('Collegenational', 'LOCATION'), ('Center', 'LOCATION')]",No
+407,Trinamool Congress Tmc mp Srinjoy Bose,"[('Trinamool', 'ORGANIZATION'), ('Congress', 'ORGANIZATION'), ('Tmc', 'ORGANIZATION'), ('mp', 'O'), ('Srinjoy', 'PERSON'), ('Bose', 'PERSON')]",Yes
+408,Israel Antiquities Authorityperipheral Health Unit,"[('Israel', 'ORGANIZATION'), ('Antiquities', 'ORGANIZATION'), ('Authorityperipheral', 'ORGANIZATION'), ('Health', 'ORGANIZATION'), ('Unit', 'ORGANIZATION')]",Yes
+409,National Consumer Protection Week,"[('National', 'ORGANIZATION'), ('Consumer', 'ORGANIZATION'), ('Protection', 'ORGANIZATION'), ('Week', 'ORGANIZATION')]",Yes
+410,Caesar Rodney High School,"[('Caesar', 'ORGANIZATION'), ('Rodney', 'ORGANIZATION'), ('High', 'ORGANIZATION'), ('School', 'ORGANIZATION')]",Yes
+411,Hanover Center,"[('Hanover', 'O'), ('Center', 'O')]",No
+412,Cassels Brock Blackwellcorruption Police,"[('Cassels', 'PERSON'), ('Brock', 'PERSON'), ('Blackwellcorruption', 'PERSON'), ('Police', 'PERSON')]",No
+413,Seattle Humane,"[('Seattle', 'ORGANIZATION'), ('Humane', 'ORGANIZATION')]",Yes
+414,Everyday Matters,"[('Everyday', 'O'), ('Matters', 'O')]",No
+415,Team Assignment Media Technologies Paper,"[('Team', 'O'), ('Assignment', 'O'), ('Media', 'O'), ('Technologies', 'O'), ('Paper', 'O')]",No
+416,Biomass Thermal Energy Councilanimal Rescue League,"[('Biomass', 'ORGANIZATION'), ('Thermal', 'ORGANIZATION'), ('Energy', 'ORGANIZATION'), ('Councilanimal', 'ORGANIZATION'), ('Rescue', 'ORGANIZATION'), ('League', 'ORGANIZATION')]",Yes
+417,Duke Universityfirst United,"[('Duke', 'PERSON'), ('Universityfirst', 'PERSON'), ('United', 'PERSON')]",No
+418,Lake Champlain Chamberinternational Council on Clean Transportation,"[('Lake', 'O'), ('Champlain', 'O'), ('Chamberinternational', 'O'), ('Council', 'O'), ('on', 'O'), ('Clean', 'O'), ('Transportation', 'O')]",No
+419,Cancer Research United Kingdominternational News Norwegian Muslimsanalytics Division,"[('Cancer', 'ORGANIZATION'), ('Research', 'ORGANIZATION'), ('United', 'ORGANIZATION'), ('Kingdominternational', 'ORGANIZATION'), ('News', 'ORGANIZATION'), ('Norwegian', 'ORGANIZATION'), ('Muslimsanalytics', 'ORGANIZATION'), ('Division', 'ORGANIZATION')]",Yes
+420,New York Timesgreater Raleigh Chamber,"[('New', 'ORGANIZATION'), ('York', 'ORGANIZATION'), ('Timesgreater', 'ORGANIZATION'), ('Raleigh', 'ORGANIZATION'), ('Chamber', 'ORGANIZATION')]",Yes
+421,African Regional Intellectual Property Organisation,"[('African', 'O'), ('Regional', 'ORGANIZATION'), ('Intellectual', 'ORGANIZATION'), ('Property', 'ORGANIZATION'), ('Organisation', 'ORGANIZATION')]",Yes
+422,Education Departmentlake Orion High School,"[('Education', 'ORGANIZATION'), ('Departmentlake', 'ORGANIZATION'), ('Orion', 'ORGANIZATION'), ('High', 'ORGANIZATION'), ('School', 'ORGANIZATION')]",Yes
+423,International Film Festival of India,"[('International', 'O'), ('Film', 'O'), ('Festival', 'O'), ('of', 'O'), ('India', 'LOCATION')]",No
+424,Fitch Ratings,"[('Fitch', 'O'), ('Ratings', 'O')]",No
+425,National Achievement Scholarship,"[('National', 'O'), ('Achievement', 'O'), ('Scholarship', 'O')]",No
+426,of Maryland at Park,"[('of', 'O'), ('Maryland', 'LOCATION'), ('at', 'O'), ('Park', 'O')]",No
+427,Sirius xm Holdings,"[('Sirius', 'ORGANIZATION'), ('xm', 'O'), ('Holdings', 'O')]",Yes
+428,Los Angeles Film Critics Associationfacebook,"[('Los', 'O'), ('Angeles', 'O'), ('Film', 'O'), ('Critics', 'O'), ('Associationfacebook', 'PERSON')]",No
+429,of Santo Tomaszimbabwe Stock Exchangegeorgetown Center on Health Reforms,"[('of', 'O'), ('Santo', 'ORGANIZATION'), ('Tomaszimbabwe', 'ORGANIZATION'), ('Stock', 'ORGANIZATION'), ('Exchangegeorgetown', 'ORGANIZATION'), ('Center', 'ORGANIZATION'), ('on', 'O'), ('Health', 'O'), ('Reforms', 'O')]",Yes
+430,Family Enrichment Program,"[('Family', 'O'), ('Enrichment', 'O'), ('Program', 'O')]",No
+431,Little Rock Air Force,"[('Little', 'ORGANIZATION'), ('Rock', 'ORGANIZATION'), ('Air', 'ORGANIZATION'), ('Force', 'ORGANIZATION')]",Yes
+432,Pheu Thai Partydepartment of Revenue,"[('Pheu', 'O'), ('Thai', 'O'), ('Partydepartment', 'O'), ('of', 'O'), ('Revenue', 'O')]",No
+433,National Treasurefacebook,"[('National', 'ORGANIZATION'), ('Treasurefacebook', 'ORGANIZATION')]",Yes
+434,City of West Lafayette Redevelopment Commission,"[('City', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('West', 'ORGANIZATION'), ('Lafayette', 'ORGANIZATION'), ('Redevelopment', 'ORGANIZATION'), ('Commission', 'ORGANIZATION')]",Yes
+435,Democratic Partydubilier Rice,"[('Democratic', 'O'), ('Partydubilier', 'O'), ('Rice', 'O')]",No
+436,Quality Oil,"[('Quality', 'O'), ('Oil', 'O')]",No
+437,African Weather Service,"[('African', 'O'), ('Weather', 'O'), ('Service', 'O')]",No
+438,National Fieldeuropean For Ukraine,"[('National', 'O'), ('Fieldeuropean', 'O'), ('For', 'O'), ('Ukraine', 'LOCATION')]",No
+439,Jason Hendrix,"[('Jason', 'PERSON'), ('Hendrix', 'PERSON')]",No
+440,Police Dept do,"[('Police', 'O'), ('Dept', 'O'), ('do', 'O')]",No
+441,Tibetan Servicecnn,"[('Tibetan', 'O'), ('Servicecnn', 'PERSON')]",No
+442,Hobby Lobby Stores,"[('Hobby', 'O'), ('Lobby', 'O'), ('Stores', 'O')]",No
+443,Pascagoula High Schoolhealth Care Guides,"[('Pascagoula', 'LOCATION'), ('High', 'O'), ('Schoolhealth', 'O'), ('Care', 'O'), ('Guides', 'O')]",No
+444,Topean Energy Solution,"[('Topean', 'O'), ('Energy', 'O'), ('Solution', 'O')]",No
+445,National Black Theatre,"[('National', 'ORGANIZATION'), ('Black', 'ORGANIZATION'), ('Theatre', 'ORGANIZATION')]",Yes
+446,James Garner Center,"[('James', 'PERSON'), ('Garner', 'PERSON'), ('Center', 'PERSON')]",No
+447,Agency For Science,"[('Agency', 'O'), ('For', 'O'), ('Science', 'O')]",No
+448,Chemicals Groupexxon Mobil,"[('Chemicals', 'O'), ('Groupexxon', 'PERSON'), ('Mobil', 'PERSON')]",No
+449,California School Immunization Law,"[('California', 'LOCATION'), ('School', 'O'), ('Immunization', 'O'), ('Law', 'O')]",No
+450,United Stateswood County Magistrate Court,"[('United', 'ORGANIZATION'), ('Stateswood', 'ORGANIZATION'), ('County', 'ORGANIZATION'), ('Magistrate', 'ORGANIZATION'), ('Court', 'ORGANIZATION')]",Yes
+451,Vickram of Engineering,"[('Vickram', 'O'), ('of', 'O'), ('Engineering', 'O')]",No
+452,Facebookcox Communications,"[('Facebookcox', 'ORGANIZATION'), ('Communications', 'ORGANIZATION')]",Yes
+453,Shore United Way Community,"[('Shore', 'ORGANIZATION'), ('United', 'ORGANIZATION'), ('Way', 'ORGANIZATION'), ('Community', 'ORGANIZATION')]",Yes
+454,American Music Therapy Associationmarketing,"[('American', 'O'), ('Music', 'O'), ('Therapy', 'O'), ('Associationmarketing', 'O')]",No
+455,National Republican Congressional Committeeleader of United Democratic Front in Parliament,"[('National', 'ORGANIZATION'), ('Republican', 'ORGANIZATION'), ('Congressional', 'ORGANIZATION'), ('Committeeleader', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('United', 'ORGANIZATION'), ('Democratic', 'ORGANIZATION'), ('Front', 'ORGANIZATION'), ('in', 'ORGANIZATION'), ('Parliament', 'ORGANIZATION')]",Yes
+456,Hemisphere Department,"[('Hemisphere', 'O'), ('Department', 'O')]",No
+457,Orange Park Kennel Clubhuntley Middle School Auditorium,"[('Orange', 'ORGANIZATION'), ('Park', 'ORGANIZATION'), ('Kennel', 'ORGANIZATION'), ('Clubhuntley', 'ORGANIZATION'), ('Middle', 'ORGANIZATION'), ('School', 'ORGANIZATION'), ('Auditorium', 'ORGANIZATION')]",Yes
+458,Occidental Petroleum,"[('Occidental', 'ORGANIZATION'), ('Petroleum', 'ORGANIZATION')]",Yes
+459,Little Rock Compassion Centeruniversity of Wisconsin,"[('Little', 'O'), ('Rock', 'O'), ('Compassion', 'O'), ('Centeruniversity', 'O'), ('of', 'O'), ('Wisconsin', 'LOCATION')]",No
+460,Byron Center,"[('Byron', 'PERSON'), ('Center', 'PERSON')]",No
+461,Salary Increase,"[('Salary', 'O'), ('Increase', 'O')]",No
+462,Digital Rights Ireland Ltdfarmer,"[('Digital', 'O'), ('Rights', 'O'), ('Ireland', 'PERSON'), ('Ltdfarmer', 'PERSON')]",No
+463,Crescent Heights High Schoolormond Centre,"[('Crescent', 'ORGANIZATION'), ('Heights', 'ORGANIZATION'), ('High', 'ORGANIZATION'), ('Schoolormond', 'ORGANIZATION'), ('Centre', 'ORGANIZATION')]",Yes
+464,International Joint Commissionlos Angeles Clippers,"[('International', 'ORGANIZATION'), ('Joint', 'ORGANIZATION'), ('Commissionlos', 'ORGANIZATION'), ('Angeles', 'ORGANIZATION'), ('Clippers', 'ORGANIZATION')]",Yes
+465,Food Networkhouse Education Committee on,"[('Food', 'ORGANIZATION'), ('Networkhouse', 'ORGANIZATION'), ('Education', 'ORGANIZATION'), ('Committee', 'ORGANIZATION'), ('on', 'O')]",Yes
+466,Specialty Food,"[('Specialty', 'O'), ('Food', 'O')]",No
+467,Cleveland Cavalierslandry Design Group,"[('Cleveland', 'ORGANIZATION'), ('Cavalierslandry', 'ORGANIZATION'), ('Design', 'ORGANIZATION'), ('Group', 'ORGANIZATION')]",Yes
+468,Jabil Circuit,"[('Jabil', 'ORGANIZATION'), ('Circuit', 'ORGANIZATION')]",Yes
+469,Amarillo Independent School Districtdance Alliance of Fort Myers,"[('Amarillo', 'ORGANIZATION'), ('Independent', 'ORGANIZATION'), ('School', 'ORGANIZATION'), ('Districtdance', 'ORGANIZATION'), ('Alliance', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Fort', 'ORGANIZATION'), ('Myers', 'ORGANIZATION')]",Yes
+470,Perspective Former Peoples Democratic Partydemocracy,"[('Perspective', 'O'), ('Former', 'O'), ('Peoples', 'O'), ('Democratic', 'O'), ('Partydemocracy', 'O')]",No
+471,Brands,"[('Brands', 'O')]",No
+472,Energy Desk,"[('Energy', 'O'), ('Desk', 'O')]",No
+473,United Centeruniversity of Virginia,"[('United', 'ORGANIZATION'), ('Centeruniversity', 'ORGANIZATION'), ('of', 'O'), ('Virginia', 'LOCATION')]",Yes
+474,Toronto Police Const,"[('Toronto', 'LOCATION'), ('Police', 'O'), ('Const', 'O')]",No
+475,Atherton High School in Louisvillecultural Office,"[('Atherton', 'ORGANIZATION'), ('High', 'ORGANIZATION'), ('School', 'ORGANIZATION'), ('in', 'O'), ('Louisvillecultural', 'LOCATION'), ('Office', 'LOCATION')]",Yes
+476,Accentuate Incorporatedlync User Group,"[('Accentuate', 'O'), ('Incorporatedlync', 'O'), ('User', 'O'), ('Group', 'O')]",No
+477,Augustine School,"[('Augustine', 'PERSON'), ('School', 'PERSON')]",No
+478,National Conferenceinternational Monetary,"[('National', 'O'), ('Conferenceinternational', 'O'), ('Monetary', 'O')]",No
+479,Chatter Buzz Media,"[('Chatter', 'O'), ('Buzz', 'O'), ('Media', 'O')]",No
+480,High Courtbones Motorcycle Clubheights,"[('High', 'O'), ('Courtbones', 'O'), ('Motorcycle', 'O'), ('Clubheights', 'O')]",No
+481,Virginia State Police Sgtgoddard Spaceflight Centre,"[('Virginia', 'LOCATION'), ('State', 'O'), ('Police', 'O'), ('Sgtgoddard', 'O'), ('Spaceflight', 'O'), ('Centre', 'O')]",No
+482,Reuterspemex,"[('Reuterspemex', 'PERSON')]",No
+483,For Unmanned Vehicle Systems Internationalassociated Press,"[('For', 'O'), ('Unmanned', 'O'), ('Vehicle', 'O'), ('Systems', 'O'), ('Internationalassociated', 'O'), ('Press', 'O')]",No
+484,Committee of Assessors,"[('Committee', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Assessors', 'ORGANIZATION')]",Yes
+485,Alisa Hotelexxonmobil,"[('Alisa', 'PERSON'), ('Hotelexxonmobil', 'PERSON')]",No
+486,Spanish Department of Education,"[('Spanish', 'O'), ('Department', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Education', 'ORGANIZATION')]",Yes
+487,Office Operationsindian Chamber,"[('Office', 'O'), ('Operationsindian', 'O'), ('Chamber', 'O')]",No
+488,International Payment Solution,"[('International', 'O'), ('Payment', 'O'), ('Solution', 'O')]",No
+489,Treasury Securities Services,"[('Treasury', 'ORGANIZATION'), ('Securities', 'ORGANIZATION'), ('Services', 'ORGANIZATION')]",Yes
+490,Lineage Power Holdings,"[('Lineage', 'ORGANIZATION'), ('Power', 'ORGANIZATION'), ('Holdings', 'ORGANIZATION')]",Yes
+491,Galway City Council,"[('Galway', 'ORGANIZATION'), ('City', 'ORGANIZATION'), ('Council', 'ORGANIZATION')]",Yes
+492,How The Council,"[('How', 'O'), ('The', 'O'), ('Council', 'O')]",No
+493,International Women Day Onhungarian National Registry,"[('International', 'O'), ('Women', 'O'), ('Day', 'O'), ('Onhungarian', 'O'), ('National', 'O'), ('Registry', 'O')]",No
+494,United Kingdom Civil Aviation Authorityforeign Affairs Ministry,"[('United', 'ORGANIZATION'), ('Kingdom', 'ORGANIZATION'), ('Civil', 'ORGANIZATION'), ('Aviation', 'ORGANIZATION'), ('Authorityforeign', 'ORGANIZATION'), ('Affairs', 'ORGANIZATION'), ('Ministry', 'ORGANIZATION')]",Yes
+495,Hondaharbor Public Libraryarchdiocese of Philadelphia to Goodman Properties,"[('Hondaharbor', 'O'), ('Public', 'O'), ('Libraryarchdiocese', 'O'), ('of', 'O'), ('Philadelphia', 'LOCATION'), ('to', 'O'), ('Goodman', 'ORGANIZATION'), ('Properties', 'ORGANIZATION')]",Yes
+496,Material International Market Development History,"[('Material', 'O'), ('International', 'O'), ('Market', 'O'), ('Development', 'O'), ('History', 'O')]",No
+497,Management Report of Performanceeconomic Survey of India,"[('Management', 'O'), ('Report', 'O'), ('of', 'O'), ('Performanceeconomic', 'O'), ('Survey', 'O'), ('of', 'O'), ('India', 'LOCATION')]",No
+498,Herzl Museum,"[('Herzl', 'O'), ('Museum', 'O')]",No
+499,Madison Morstad,"[('Madison', 'PERSON'), ('Morstad', 'PERSON')]",No
+500,Shaw Group,"[('Shaw', 'ORGANIZATION'), ('Group', 'ORGANIZATION')]",Yes
+501,Globenewswire Incsupreme Court,"[('Globenewswire', 'ORGANIZATION'), ('Incsupreme', 'ORGANIZATION'), ('Court', 'ORGANIZATION')]",Yes
+502,Prnewswire Southwest Airlines,"[('Prnewswire', 'ORGANIZATION'), ('Southwest', 'ORGANIZATION'), ('Airlines', 'ORGANIZATION')]",Yes
+503,Reutersb Nurse,"[('Reutersb', 'O'), ('Nurse', 'O')]",No
+504,Junior League,"[('Junior', 'O'), ('League', 'O')]",No
+505,Stanislaus Council of Governmentsparty of India Maoist,"[('Stanislaus', 'ORGANIZATION'), ('Council', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Governmentsparty', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('India', 'ORGANIZATION'), ('Maoist', 'ORGANIZATION')]",Yes
+506,Butte County Sheriff Office,"[('Butte', 'ORGANIZATION'), ('County', 'ORGANIZATION'), ('Sheriff', 'ORGANIZATION'), ('Office', 'ORGANIZATION')]",Yes
+507,Patna High Court Onjohns Hopkins,"[('Patna', 'LOCATION'), ('High', 'O'), ('Court', 'O'), ('Onjohns', 'PERSON'), ('Hopkins', 'PERSON')]",No
+508,Kentucky Health Issues Pollsession of The Human Rights Councilkrispy Kreme,"[('Kentucky', 'LOCATION'), ('Health', 'O'), ('Issues', 'O'), ('Pollsession', 'O'), ('of', 'O'), ('The', 'O'), ('Human', 'O'), ('Rights', 'O'), ('Councilkrispy', 'O'), ('Kreme', 'O')]",No
+509,Mozambique Group Nanoxplore,"[('Mozambique', 'ORGANIZATION'), ('Group', 'ORGANIZATION'), ('Nanoxplore', 'ORGANIZATION')]",Yes
+510,Michael Schenker Group Armedvanderbilt Law School,"[('Michael', 'ORGANIZATION'), ('Schenker', 'ORGANIZATION'), ('Group', 'ORGANIZATION'), ('Armedvanderbilt', 'ORGANIZATION'), ('Law', 'ORGANIZATION'), ('School', 'ORGANIZATION')]",Yes
+511,Costa Property Groupohio Franklin,"[('Costa', 'O'), ('Property', 'O'), ('Groupohio', 'PERSON'), ('Franklin', 'PERSON')]",No
+512,Shopkeeper at Nyamakosi Business Centre,"[('Shopkeeper', 'O'), ('at', 'O'), ('Nyamakosi', 'LOCATION'), ('Business', 'LOCATION'), ('Centre', 'LOCATION')]",No
+513,Health,"[('Health', 'O')]",No
+514,Copenhagen Consensus Center,"[('Copenhagen', 'LOCATION'), ('Consensus', 'O'), ('Center', 'O')]",No
+515,Agency Advisory Committee on Voter Educationnational Book Award For Young People,"[('Agency', 'ORGANIZATION'), ('Advisory', 'ORGANIZATION'), ('Committee', 'ORGANIZATION'), ('on', 'O'), ('Voter', 'O'), ('Educationnational', 'O'), ('Book', 'O'), ('Award', 'O'), ('For', 'O'), ('Young', 'O'), ('People', 'O')]",Yes
+516,Russian Federation Maher,"[('Russian', 'LOCATION'), ('Federation', 'LOCATION'), ('Maher', 'LOCATION')]",No
+517,Poor Ratings Servicesus District Court,"[('Poor', 'O'), ('Ratings', 'O'), ('Servicesus', 'O'), ('District', 'O'), ('Court', 'O')]",No
+518,of Washington School of Public Health,"[('of', 'O'), ('Washington', 'ORGANIZATION'), ('School', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Public', 'ORGANIZATION'), ('Health', 'ORGANIZATION')]",Yes
+519,American Nazi Partypharmaceuticals Healthcare,"[('American', 'ORGANIZATION'), ('Nazi', 'ORGANIZATION'), ('Partypharmaceuticals', 'ORGANIZATION'), ('Healthcare', 'ORGANIZATION')]",Yes
+520,Ball Ball,"[('Ball', 'PERSON'), ('Ball', 'PERSON')]",No
+521,Regulatory Affairs Committeehampshire Public Utilities Commission,"[('Regulatory', 'ORGANIZATION'), ('Affairs', 'ORGANIZATION'), ('Committeehampshire', 'ORGANIZATION'), ('Public', 'ORGANIZATION'), ('Utilities', 'ORGANIZATION'), ('Commission', 'ORGANIZATION')]",Yes
+522,Telusecorse Policeglasshouse Hotel on,"[('Telusecorse', 'O'), ('Policeglasshouse', 'O'), ('Hotel', 'O'), ('on', 'O')]",No
+523,Sileby Community Centre,"[('Sileby', 'LOCATION'), ('Community', 'LOCATION'), ('Centre', 'LOCATION')]",No
+524,Coolavin Cricket in Goulburnnational Technical Coordination Committee,"[('Coolavin', 'ORGANIZATION'), ('Cricket', 'ORGANIZATION'), ('in', 'ORGANIZATION'), ('Goulburnnational', 'ORGANIZATION'), ('Technical', 'ORGANIZATION'), ('Coordination', 'ORGANIZATION'), ('Committee', 'ORGANIZATION')]",Yes
+525,Negumbo ss School,"[('Negumbo', 'O'), ('ss', 'O'), ('School', 'O')]",No
+526,Longwood Universityhealthiest State Initiative,"[('Longwood', 'ORGANIZATION'), ('Universityhealthiest', 'ORGANIZATION'), ('State', 'O'), ('Initiative', 'O')]",Yes
+527,Pensioners,"[('Pensioners', 'O')]",No
+528,Acushnet Council on,"[('Acushnet', 'ORGANIZATION'), ('Council', 'ORGANIZATION'), ('on', 'O')]",Yes
+529,World Food Program,"[('World', 'O'), ('Food', 'O'), ('Program', 'O')]",No
+530,Orient Airlines,"[('Orient', 'ORGANIZATION'), ('Airlines', 'ORGANIZATION')]",Yes
+531,of Jewish Ethics,"[('of', 'O'), ('Jewish', 'O'), ('Ethics', 'O')]",No
+532,Minerals Council of Australia,"[('Minerals', 'ORGANIZATION'), ('Council', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Australia', 'ORGANIZATION')]",Yes
+533,Australia Climate Change Science Adaptation Planning Programdouglas County Sheriff Office,"[('Australia', 'LOCATION'), ('Climate', 'O'), ('Change', 'O'), ('Science', 'O'), ('Adaptation', 'O'), ('Planning', 'O'), ('Programdouglas', 'ORGANIZATION'), ('County', 'ORGANIZATION'), ('Sheriff', 'ORGANIZATION'), ('Office', 'ORGANIZATION')]",Yes
+534,Israeli Foreign Ministry,"[('Israeli', 'O'), ('Foreign', 'O'), ('Ministry', 'O')]",No
+535,Communications Buyer,"[('Communications', 'O'), ('Buyer', 'O')]",No
+536,fp International,"[('fp', 'O'), ('International', 'O')]",No
+537,Sonyamerican Center,"[('Sonyamerican', 'O'), ('Center', 'O')]",No
+538,Republican National Committeebanking Group,"[('Republican', 'ORGANIZATION'), ('National', 'ORGANIZATION'), ('Committeebanking', 'ORGANIZATION'), ('Group', 'ORGANIZATION')]",Yes
+539,Natural Resources Commission,"[('Natural', 'O'), ('Resources', 'O'), ('Commission', 'O')]",No
+540,of New Hampshireuniversity of Wisconsin,"[('of', 'O'), ('New', 'O'), ('Hampshireuniversity', 'O'), ('of', 'O'), ('Wisconsin', 'LOCATION')]",No
+541,Eastern Kentucky,"[('Eastern', 'O'), ('Kentucky', 'LOCATION')]",No
+542,Parke County Sheriff Office,"[('Parke', 'ORGANIZATION'), ('County', 'ORGANIZATION'), ('Sheriff', 'ORGANIZATION'), ('Office', 'ORGANIZATION')]",Yes
+543,Shawbrook Academyswiss National,"[('Shawbrook', 'O'), ('Academyswiss', 'O'), ('National', 'O')]",No
+544,Operations of The Multilateral Investment Guarantee Agencywells Fargo,"[('Operations', 'O'), ('of', 'O'), ('The', 'O'), ('Multilateral', 'O'), ('Investment', 'O'), ('Guarantee', 'O'), ('Agencywells', 'PERSON'), ('Fargo', 'PERSON')]",No
+545,Weather Authorityinterpublic Group of Companies,"[('Weather', 'O'), ('Authorityinterpublic', 'ORGANIZATION'), ('Group', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Companies', 'ORGANIZATION')]",Yes
+546,Department or Labor Departmenttwitter,"[('Department', 'O'), ('or', 'O'), ('Labor', 'ORGANIZATION'), ('Departmenttwitter', 'ORGANIZATION')]",Yes
+547,Calgary Homeless,"[('Calgary', 'ORGANIZATION'), ('Homeless', 'ORGANIZATION')]",Yes
+548,Central Elections Committeenational Assembly Members,"[('Central', 'ORGANIZATION'), ('Elections', 'ORGANIZATION'), ('Committeenational', 'ORGANIZATION'), ('Assembly', 'ORGANIZATION'), ('Members', 'O')]",Yes
+549,Research Lab,"[('Research', 'O'), ('Lab', 'O')]",No
+550,United Nationsfacebook,"[('United', 'ORGANIZATION'), ('Nationsfacebook', 'ORGANIZATION')]",Yes
+551,Heller School of Socialstudent Nonviolent Coordinating Committee,"[('Heller', 'ORGANIZATION'), ('School', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Socialstudent', 'ORGANIZATION'), ('Nonviolent', 'ORGANIZATION'), ('Coordinating', 'ORGANIZATION'), ('Committee', 'ORGANIZATION')]",Yes
+552,Sector Industrials Financials Consumer Discretionary Technology Stoxx,"[('Sector', 'O'), ('Industrials', 'O'), ('Financials', 'O'), ('Consumer', 'O'), ('Discretionary', 'O'), ('Technology', 'O'), ('Stoxx', 'O')]",No
+553,John Convention Centrecanadian Office,"[('John', 'O'), ('Convention', 'O'), ('Centrecanadian', 'O'), ('Office', 'O')]",No
+554,Leaders of The Green Party,"[('Leaders', 'O'), ('of', 'O'), ('The', 'O'), ('Green', 'ORGANIZATION'), ('Party', 'ORGANIZATION')]",Yes
+555,Rio Tinto Groupferguson Police,"[('Rio', 'ORGANIZATION'), ('Tinto', 'ORGANIZATION'), ('Groupferguson', 'ORGANIZATION'), ('Police', 'ORGANIZATION')]",Yes
+556,Environment Committeedowntown Development,"[('Environment', 'O'), ('Committeedowntown', 'O'), ('Development', 'O')]",No
+557,Piaru Sardar For Language Movementpacific Partnership,"[('Piaru', 'O'), ('Sardar', 'O'), ('For', 'O'), ('Language', 'O'), ('Movementpacific', 'O'), ('Partnership', 'O')]",No
+558,Microsoftunited Kingdom Independence Partygwynedd County Councilcommunications Decency,"[('Microsoftunited', 'O'), ('Kingdom', 'O'), ('Independence', 'O'), ('Partygwynedd', 'O'), ('County', 'O'), ('Councilcommunications', 'O'), ('Decency', 'O')]",No
+559,Courtesy County News Centercolumbia,"[('Courtesy', 'ORGANIZATION'), ('County', 'ORGANIZATION'), ('News', 'ORGANIZATION'), ('Centercolumbia', 'LOCATION')]",Yes
+560,Police in Columbussrinagar Municipal,"[('Police', 'O'), ('in', 'O'), ('Columbussrinagar', 'LOCATION'), ('Municipal', 'LOCATION')]",No
+561,Ontario Arts Council,"[('Ontario', 'ORGANIZATION'), ('Arts', 'ORGANIZATION'), ('Council', 'ORGANIZATION')]",Yes
+562,Northumberland National Park Authority,"[('Northumberland', 'ORGANIZATION'), ('National', 'ORGANIZATION'), ('Park', 'ORGANIZATION'), ('Authority', 'ORGANIZATION')]",Yes
+563,Carnegie Library on Fisk,"[('Carnegie', 'LOCATION'), ('Library', 'LOCATION'), ('on', 'O'), ('Fisk', 'PERSON')]",No
+564,First Lego League State Championshipstempus,"[('First', 'ORGANIZATION'), ('Lego', 'ORGANIZATION'), ('League', 'ORGANIZATION'), ('State', 'O'), ('Championshipstempus', 'O')]",Yes
+565,Maritime Services,"[('Maritime', 'O'), ('Services', 'O')]",No
+566,Corporate Area Resident Magistrate Court,"[('Corporate', 'O'), ('Area', 'O'), ('Resident', 'O'), ('Magistrate', 'O'), ('Court', 'O')]",No
+567,Progressives Grand Allianceministry For Primary Industries,"[('Progressives', 'O'), ('Grand', 'O'), ('Allianceministry', 'O'), ('For', 'O'), ('Primary', 'O'), ('Industries', 'O')]",No
+568,Pontifical Council For Culture Holy See,"[('Pontifical', 'ORGANIZATION'), ('Council', 'ORGANIZATION'), ('For', 'ORGANIZATION'), ('Culture', 'ORGANIZATION'), ('Holy', 'ORGANIZATION'), ('See', 'ORGANIZATION')]",Yes
+569,Central Somalia Administration,"[('Central', 'ORGANIZATION'), ('Somalia', 'ORGANIZATION'), ('Administration', 'ORGANIZATION')]",Yes
+570,Land Survey Platcontact Information Cybergy Holdings,"[('Land', 'O'), ('Survey', 'O'), ('Platcontact', 'O'), ('Information', 'O'), ('Cybergy', 'O'), ('Holdings', 'O')]",No
+571,Indiana Regional Development Authoritypolaroid Corporationnational Iranian American Council,"[('Indiana', 'ORGANIZATION'), ('Regional', 'ORGANIZATION'), ('Development', 'ORGANIZATION'), ('Authoritypolaroid', 'ORGANIZATION'), ('Corporationnational', 'ORGANIZATION'), ('Iranian', 'ORGANIZATION'), ('American', 'ORGANIZATION'), ('Council', 'ORGANIZATION')]",Yes
+572,Weather Service,"[('Weather', 'O'), ('Service', 'O')]",No
+573,European Unionwindsor,"[('European', 'O'), ('Unionwindsor', 'O')]",No
+574,Scientific Councilorgan Recital at st Augustine,"[('Scientific', 'O'), ('Councilorgan', 'O'), ('Recital', 'O'), ('at', 'O'), ('st', 'O'), ('Augustine', 'O')]",No
+575,Crime Drug Enforcement Task Force Investigation,"[('Crime', 'O'), ('Drug', 'O'), ('Enforcement', 'O'), ('Task', 'O'), ('Force', 'O'), ('Investigation', 'O')]",No
+576,Senate Democratsullens Center,"[('Senate', 'ORGANIZATION'), ('Democratsullens', 'O'), ('Center', 'O')]",Yes
+577,Latin America Groupcentral Investigation Bureau,"[('Latin', 'ORGANIZATION'), ('America', 'ORGANIZATION'), ('Groupcentral', 'ORGANIZATION'), ('Investigation', 'ORGANIZATION'), ('Bureau', 'ORGANIZATION')]",Yes
+578,Uruguayan Foreign Ministry,"[('Uruguayan', 'O'), ('Foreign', 'O'), ('Ministry', 'O')]",No
+579,National World War ii Museum,"[('National', 'O'), ('World', 'O'), ('War', 'O'), ('ii', 'O'), ('Museum', 'O')]",No
+580,Evans Bancorp,"[('Evans', 'ORGANIZATION'), ('Bancorp', 'ORGANIZATION')]",Yes
+581,Barnes County Historical Museum,"[('Barnes', 'ORGANIZATION'), ('County', 'ORGANIZATION'), ('Historical', 'ORGANIZATION'), ('Museum', 'ORGANIZATION')]",Yes
+582,in Barbourville,"[('in', 'O'), ('Barbourville', 'LOCATION')]",No
+583,Community Care Access Centres Ccacscarthage,"[('Community', 'O'), ('Care', 'O'), ('Access', 'O'), ('Centres', 'O'), ('Ccacscarthage', 'O')]",No
+584,Los Alamos History Museum,"[('Los', 'O'), ('Alamos', 'O'), ('History', 'O'), ('Museum', 'O')]",No
+585,Kay Yow,"[('Kay', 'PERSON'), ('Yow', 'PERSON')]",No
+586,United Stateslondon School of Economics,"[('United', 'ORGANIZATION'), ('Stateslondon', 'ORGANIZATION'), ('School', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Economics', 'ORGANIZATION')]",Yes
+587,Electromechanial Solutionsworld,"[('Electromechanial', 'PERSON'), ('Solutionsworld', 'PERSON')]",No
+588,Fixstars Solutionsnational Women Action Committee,"[('Fixstars', 'ORGANIZATION'), ('Solutionsnational', 'ORGANIZATION'), ('Women', 'ORGANIZATION'), ('Action', 'ORGANIZATION'), ('Committee', 'ORGANIZATION')]",Yes
+589,Expense Energy Transfer Partners,"[('Expense', 'O'), ('Energy', 'O'), ('Transfer', 'O'), ('Partners', 'O')]",No
+590,Israel For National Security,"[('Israel', 'LOCATION'), ('For', 'O'), ('National', 'O'), ('Security', 'O')]",No
+591,Rakuten,"[('Rakuten', 'PERSON')]",No
+592,Round The Island Cruise in Companyhowell City Councilcommission Let,"[('Round', 'O'), ('The', 'O'), ('Island', 'O'), ('Cruise', 'O'), ('in', 'O'), ('Companyhowell', 'O'), ('City', 'O'), ('Councilcommission', 'O'), ('Let', 'O')]",No
+593,High Courtchildren Services Coordinator Abbie Woolridge,"[('High', 'O'), ('Courtchildren', 'O'), ('Services', 'O'), ('Coordinator', 'O'), ('Abbie', 'PERSON'), ('Woolridge', 'PERSON')]",No
+594,Multi National Joint Task Forcederivatives Exchange,"[('Multi', 'O'), ('National', 'O'), ('Joint', 'O'), ('Task', 'O'), ('Forcederivatives', 'O'), ('Exchange', 'O')]",No
+595,Stephens Mediaanalysis Review Korea Gas,"[('Stephens', 'ORGANIZATION'), ('Mediaanalysis', 'ORGANIZATION'), ('Review', 'ORGANIZATION'), ('Korea', 'ORGANIZATION'), ('Gas', 'ORGANIZATION')]",Yes
+596,Youth Justice Agency,"[('Youth', 'O'), ('Justice', 'O'), ('Agency', 'O')]",No
+597,Ministry of Minority Affairs,"[('Ministry', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Minority', 'ORGANIZATION'), ('Affairs', 'ORGANIZATION')]",Yes
+598,Palmer Uniting Partycollege World Seriesqueensland Investment Corporationfree Press Test Kitchen,"[('Palmer', 'PERSON'), ('Uniting', 'O'), ('Partycollege', 'O'), ('World', 'O'), ('Seriesqueensland', 'O'), ('Investment', 'O'), ('Corporationfree', 'O'), ('Press', 'O'), ('Test', 'O'), ('Kitchen', 'O')]",No
+599,Sumitomo Mitsui Financial Group,"[('Sumitomo', 'ORGANIZATION'), ('Mitsui', 'ORGANIZATION'), ('Financial', 'ORGANIZATION'), ('Group', 'ORGANIZATION')]",Yes
+600,dr Ambedkar Development,"[('dr', 'O'), ('Ambedkar', 'O'), ('Development', 'O')]",No
+601,Strategy Analytics,"[('Strategy', 'O'), ('Analytics', 'O')]",No
+602,Public Affairs Toll Free Numberdelhi Police,"[('Public', 'ORGANIZATION'), ('Affairs', 'ORGANIZATION'), ('Toll', 'ORGANIZATION'), ('Free', 'ORGANIZATION'), ('Numberdelhi', 'ORGANIZATION'), ('Police', 'ORGANIZATION')]",Yes
+603,United Statesassociation Agreement,"[('United', 'O'), ('Statesassociation', 'O'), ('Agreement', 'O')]",No
+604,American,"[('American', 'O')]",No
+605,For Social,"[('For', 'O'), ('Social', 'O')]",No
+606,Colorado Springs Police,"[('Colorado', 'ORGANIZATION'), ('Springs', 'ORGANIZATION'), ('Police', 'ORGANIZATION')]",Yes
+607,Brevard County Sheriff Office Homicide Unit,"[('Brevard', 'ORGANIZATION'), ('County', 'ORGANIZATION'), ('Sheriff', 'ORGANIZATION'), ('Office', 'ORGANIZATION'), ('Homicide', 'ORGANIZATION'), ('Unit', 'ORGANIZATION')]",Yes
+608,Oscar Party at Caffe Vivaldi,"[('Oscar', 'ORGANIZATION'), ('Party', 'ORGANIZATION'), ('at', 'O'), ('Caffe', 'LOCATION'), ('Vivaldi', 'LOCATION')]",Yes
+609,we at Ambulatory Healthcare Servicesmazda Museum,"[('we', 'O'), ('at', 'O'), ('Ambulatory', 'ORGANIZATION'), ('Healthcare', 'ORGANIZATION'), ('Servicesmazda', 'ORGANIZATION'), ('Museum', 'ORGANIZATION')]",Yes
+610,Donegal Coshanghai Cooperation Organization,"[('Donegal', 'ORGANIZATION'), ('Coshanghai', 'ORGANIZATION'), ('Cooperation', 'ORGANIZATION'), ('Organization', 'ORGANIZATION')]",Yes
+611,National Rental Affordability Schemenational Motorists Associationcanadian Embassy,"[('National', 'O'), ('Rental', 'O'), ('Affordability', 'O'), ('Schemenational', 'O'), ('Motorists', 'O'), ('Associationcanadian', 'O'), ('Embassy', 'O')]",No
+612,Russian Federationintergovernmental Panel on Climate Change,"[('Russian', 'O'), ('Federationintergovernmental', 'ORGANIZATION'), ('Panel', 'ORGANIZATION'), ('on', 'O'), ('Climate', 'O'), ('Change', 'O')]",Yes
+613,Life Lion to Hershey Medical Center,"[('Life', 'O'), ('Lion', 'O'), ('to', 'O'), ('Hershey', 'ORGANIZATION'), ('Medical', 'ORGANIZATION'), ('Center', 'ORGANIZATION')]",Yes
+614,Corruption Council,"[('Corruption', 'O'), ('Council', 'O')]",No
+615,Bible,"[('Bible', 'O')]",No
+616,Johnsbury Academic Center,"[('Johnsbury', 'O'), ('Academic', 'O'), ('Center', 'O')]",No
+617,Welder Industry Development Overview,"[('Welder', 'O'), ('Industry', 'O'), ('Development', 'O'), ('Overview', 'O')]",No
+618,Cultural Center Activities,"[('Cultural', 'O'), ('Center', 'O'), ('Activities', 'O')]",No
+619,National Research Council,"[('National', 'ORGANIZATION'), ('Research', 'ORGANIZATION'), ('Council', 'ORGANIZATION')]",Yes
+620,Brixton Academy,"[('Brixton', 'ORGANIZATION'), ('Academy', 'ORGANIZATION')]",Yes
+621,Forster Surf Life Saving Clubrolfson Oil,"[('Forster', 'ORGANIZATION'), ('Surf', 'ORGANIZATION'), ('Life', 'ORGANIZATION'), ('Saving', 'ORGANIZATION'), ('Clubrolfson', 'ORGANIZATION'), ('Oil', 'ORGANIZATION')]",Yes
+622,Yahoohealth Kinesiology,"[('Yahoohealth', 'PERSON'), ('Kinesiology', 'PERSON')]",No
+623,Market Research Reports Published Onengland Councilmeans Committee,"[('Market', 'O'), ('Research', 'O'), ('Reports', 'O'), ('Published', 'O'), ('Onengland', 'O'), ('Councilmeans', 'O'), ('Committee', 'O')]",No
+624,Belfast Crown Courtlaw Department,"[('Belfast', 'LOCATION'), ('Crown', 'O'), ('Courtlaw', 'PERSON'), ('Department', 'PERSON')]",No
+625,Arkansas Economic Development Commission,"[('Arkansas', 'ORGANIZATION'), ('Economic', 'ORGANIZATION'), ('Development', 'ORGANIZATION'), ('Commission', 'ORGANIZATION')]",Yes
+626,Norwood Police,"[('Norwood', 'ORGANIZATION'), ('Police', 'ORGANIZATION')]",Yes
+627,Disneybuick Verano Convenience Groupregulation Services Provider,"[('Disneybuick', 'O'), ('Verano', 'O'), ('Convenience', 'O'), ('Groupregulation', 'O'), ('Services', 'O'), ('Provider', 'O')]",No
+628,Sandiland Primary School,"[('Sandiland', 'O'), ('Primary', 'O'), ('School', 'O')]",No
+629,of The,"[('of', 'O'), ('The', 'O')]",No
+630,Group of Companies Opa,"[('Group', 'O'), ('of', 'O'), ('Companies', 'ORGANIZATION'), ('Opa', 'ORGANIZATION')]",Yes
+631,Prudential Financialbus Industries,"[('Prudential', 'ORGANIZATION'), ('Financialbus', 'ORGANIZATION'), ('Industries', 'ORGANIZATION')]",Yes
+632,Oshkosh Corporationlouisville Landmarks Commission,"[('Oshkosh', 'ORGANIZATION'), ('Corporationlouisville', 'ORGANIZATION'), ('Landmarks', 'ORGANIZATION'), ('Commission', 'ORGANIZATION')]",Yes
+633,Founding Patron of The,"[('Founding', 'O'), ('Patron', 'O'), ('of', 'O'), ('The', 'O')]",No
+634,Olsen Renewables,"[('Olsen', 'PERSON'), ('Renewables', 'PERSON')]",No
+635,Lois Court,"[('Lois', 'PERSON'), ('Court', 'PERSON')]",No
+636,Reutersalabang Town Centercenters For Disease,"[('Reutersalabang', 'O'), ('Town', 'O'), ('Centercenters', 'O'), ('For', 'O'), ('Disease', 'O')]",No
+637,John Episcopal,"[('John', 'PERSON'), ('Episcopal', 'PERSON')]",No
+638,Fort Piece Police,"[('Fort', 'O'), ('Piece', 'O'), ('Police', 'O')]",No
+639,Texas Woman,"[('Texas', 'LOCATION'), ('Woman', 'O')]",No
+640,Partnership For Drug Free Kids,"[('Partnership', 'O'), ('For', 'O'), ('Drug', 'O'), ('Free', 'O'), ('Kids', 'O')]",No
+641,Aleut International,"[('Aleut', 'O'), ('International', 'O')]",No
+642,European Unionsalvation Army of Dane,"[('European', 'ORGANIZATION'), ('Unionsalvation', 'ORGANIZATION'), ('Army', 'ORGANIZATION'), ('of', 'O'), ('Dane', 'PERSON')]",Yes
+643,Gay Community Newsdata Center,"[('Gay', 'O'), ('Community', 'O'), ('Newsdata', 'O'), ('Center', 'O')]",No
+644,Wellington District Court Onmahaska County Sheriff Office on,"[('Wellington', 'ORGANIZATION'), ('District', 'ORGANIZATION'), ('Court', 'ORGANIZATION'), ('Onmahaska', 'ORGANIZATION'), ('County', 'ORGANIZATION'), ('Sheriff', 'ORGANIZATION'), ('Office', 'ORGANIZATION'), ('on', 'O')]",Yes
+645,Chamundeshwari Electricity Supply Corporationnashua Senior Activity Centerreal Estate Solutions,"[('Chamundeshwari', 'O'), ('Electricity', 'O'), ('Supply', 'O'), ('Corporationnashua', 'O'), ('Senior', 'O'), ('Activity', 'O'), ('Centerreal', 'O'), ('Estate', 'O'), ('Solutions', 'O')]",No
+646,National Open Championships,"[('National', 'O'), ('Open', 'O'), ('Championships', 'O')]",No
+647,Search Methodology Health Canada,"[('Search', 'ORGANIZATION'), ('Methodology', 'ORGANIZATION'), ('Health', 'ORGANIZATION'), ('Canada', 'ORGANIZATION')]",Yes
+648,Ministry of Aviationpine Hill School,"[('Ministry', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Aviationpine', 'ORGANIZATION'), ('Hill', 'ORGANIZATION'), ('School', 'ORGANIZATION')]",Yes
+649,American Geophysical Unionforensic Services Groupgardnersville People Saving,"[('American', 'ORGANIZATION'), ('Geophysical', 'ORGANIZATION'), ('Unionforensic', 'ORGANIZATION'), ('Services', 'ORGANIZATION'), ('Groupgardnersville', 'ORGANIZATION'), ('People', 'ORGANIZATION'), ('Saving', 'ORGANIZATION')]",Yes
+650,Sears Holdings Corpcenters For Medicare,"[('Sears', 'ORGANIZATION'), ('Holdings', 'ORGANIZATION'), ('Corpcenters', 'ORGANIZATION'), ('For', 'ORGANIZATION'), ('Medicare', 'ORGANIZATION')]",Yes
+651,American Academy of Veterinary Acupuncturemuseum Rules For Selfie Ageuniversity of Cracow,"[('American', 'ORGANIZATION'), ('Academy', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Veterinary', 'ORGANIZATION'), ('Acupuncturemuseum', 'ORGANIZATION'), ('Rules', 'O'), ('For', 'O'), ('Selfie', 'O'), ('Ageuniversity', 'O'), ('of', 'O'), ('Cracow', 'LOCATION')]",Yes
+652,National Eminence Award,"[('National', 'O'), ('Eminence', 'O'), ('Award', 'O')]",No
+653,Buck Friend at Clough Clubfeyenoord Europa League,"[('Buck', 'O'), ('Friend', 'O'), ('at', 'O'), ('Clough', 'ORGANIZATION'), ('Clubfeyenoord', 'ORGANIZATION'), ('Europa', 'ORGANIZATION'), ('League', 'ORGANIZATION')]",Yes
+654,of Toledo Center,"[('of', 'O'), ('Toledo', 'LOCATION'), ('Center', 'LOCATION')]",No
+655,Line Group,"[('Line', 'O'), ('Group', 'O')]",No
+656,Member of Lorista Holdings,"[('Member', 'O'), ('of', 'O'), ('Lorista', 'PERSON'), ('Holdings', 'PERSON')]",No
+657,Minutes of The,"[('Minutes', 'O'), ('of', 'O'), ('The', 'O')]",No
+658,Laramie Plains Museum in Laramiehouston Court,"[('Laramie', 'ORGANIZATION'), ('Plains', 'ORGANIZATION'), ('Museum', 'ORGANIZATION'), ('in', 'O'), ('Laramiehouston', 'LOCATION'), ('Court', 'LOCATION')]",Yes
+659,International Red Crosspolitical Affairs Wendy Sherman,"[('International', 'O'), ('Red', 'O'), ('Crosspolitical', 'O'), ('Affairs', 'O'), ('Wendy', 'PERSON'), ('Sherman', 'PERSON')]",No
+660,Kalikasan People Network For The Environment Kalikasan,"[('Kalikasan', 'O'), ('People', 'O'), ('Network', 'O'), ('For', 'O'), ('The', 'O'), ('Environment', 'O'), ('Kalikasan', 'O')]",No
+661,of Michigansupreme Court,"[('of', 'O'), ('Michigansupreme', 'LOCATION'), ('Court', 'LOCATION')]",No
+662,Pleasanton Public Library Ona go me,"[('Pleasanton', 'ORGANIZATION'), ('Public', 'ORGANIZATION'), ('Library', 'ORGANIZATION'), ('Ona', 'ORGANIZATION'), ('go', 'O'), ('me', 'O')]",Yes
+663,al Jazeeraglobal Scansystems,"[('al', 'PERSON'), ('Jazeeraglobal', 'PERSON'), ('Scansystems', 'PERSON')]",No
+664,Northwestern,"[('Northwestern', 'O')]",No
+665,National Heart,"[('National', 'O'), ('Heart', 'O')]",No
+666,uf Law School,"[('uf', 'O'), ('Law', 'O'), ('School', 'O')]",No
+667,India Banklinkedin,"[('India', 'LOCATION'), ('Banklinkedin', 'LOCATION')]",No
+668,Blue Foundationamazon Web Services,"[('Blue', 'O'), ('Foundationamazon', 'O'), ('Web', 'O'), ('Services', 'O')]",No
+669,Caddo Correctional Centerenglish Premier League,"[('Caddo', 'O'), ('Correctional', 'O'), ('Centerenglish', 'O'), ('Premier', 'O'), ('League', 'O')]",No
+670,Rotherham Council,"[('Rotherham', 'ORGANIZATION'), ('Council', 'ORGANIZATION')]",Yes
+671,Torcuato di Tella in Buenos Aires,"[('Torcuato', 'O'), ('di', 'O'), ('Tella', 'O'), ('in', 'O'), ('Buenos', 'LOCATION'), ('Aires', 'LOCATION')]",No
+672,Jewish Federation of Southern Arizona Women Philanthropy,"[('Jewish', 'ORGANIZATION'), ('Federation', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Southern', 'ORGANIZATION'), ('Arizona', 'ORGANIZATION'), ('Women', 'ORGANIZATION'), ('Philanthropy', 'ORGANIZATION')]",Yes
+673,Funfest Entertainment Centermichael Health Groupmontgomery County Police,"[('Funfest', 'ORGANIZATION'), ('Entertainment', 'ORGANIZATION'), ('Centermichael', 'ORGANIZATION'), ('Health', 'ORGANIZATION'), ('Groupmontgomery', 'ORGANIZATION'), ('County', 'ORGANIZATION'), ('Police', 'ORGANIZATION')]",Yes
+674,Russia Central,"[('Russia', 'LOCATION'), ('Central', 'O')]",No
+675,Tennessee Properties Restoration,"[('Tennessee', 'LOCATION'), ('Properties', 'O'), ('Restoration', 'O')]",No
+676,San Pacific Gas Electric,"[('San', 'ORGANIZATION'), ('Pacific', 'ORGANIZATION'), ('Gas', 'ORGANIZATION'), ('Electric', 'ORGANIZATION')]",Yes
+677,Legal Affairsmulticultural Center,"[('Legal', 'O'), ('Affairsmulticultural', 'O'), ('Center', 'O')]",No
+678,Simone Healthcare Development,"[('Simone', 'PERSON'), ('Healthcare', 'PERSON'), ('Development', 'PERSON')]",No
+679,Mexico Coalition of School Administrators,"[('Mexico', 'ORGANIZATION'), ('Coalition', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('School', 'ORGANIZATION'), ('Administrators', 'O')]",Yes
+680,Pauline Betz Addie Tennis Centerqueensland State Emergency Services,"[('Pauline', 'PERSON'), ('Betz', 'PERSON'), ('Addie', 'PERSON'), ('Tennis', 'O'), ('Centerqueensland', 'O'), ('State', 'O'), ('Emergency', 'O'), ('Services', 'O')]",No
+681,Howell High Schoolsheboygan Police Department Onlaw Department,"[('Howell', 'ORGANIZATION'), ('High', 'ORGANIZATION'), ('Schoolsheboygan', 'ORGANIZATION'), ('Police', 'ORGANIZATION'), ('Department', 'ORGANIZATION'), ('Onlaw', 'O'), ('Department', 'O')]",Yes
+682,Alaska Air Group,"[('Alaska', 'ORGANIZATION'), ('Air', 'ORGANIZATION'), ('Group', 'ORGANIZATION')]",Yes
+683,Cornell Universityuniversity of Toronto,"[('Cornell', 'ORGANIZATION'), ('Universityuniversity', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Toronto', 'ORGANIZATION')]",Yes
+684,Chevronlos Angeles Times,"[('Chevronlos', 'ORGANIZATION'), ('Angeles', 'ORGANIZATION'), ('Times', 'ORGANIZATION')]",Yes
+685,Right on Cue Services,"[('Right', 'O'), ('on', 'O'), ('Cue', 'O'), ('Services', 'O')]",No
+686,Saginaw Call Centertract,"[('Saginaw', 'PERSON'), ('Call', 'PERSON'), ('Centertract', 'PERSON')]",No
+687,Youtubelouisiana Legislative Auditor Office,"[('Youtubelouisiana', 'O'), ('Legislative', 'O'), ('Auditor', 'O'), ('Office', 'O')]",No
+688,National Football Foundationjpmorgan Chase,"[('National', 'O'), ('Football', 'O'), ('Foundationjpmorgan', 'PERSON'), ('Chase', 'PERSON')]",No
+689,Ductile Iron Pipe International Market Development Trend,"[('Ductile', 'O'), ('Iron', 'O'), ('Pipe', 'O'), ('International', 'O'), ('Market', 'O'), ('Development', 'O'), ('Trend', 'O')]",No
+690,Department of Canadian Heritage Canada Music Fundexchange Commission,"[('Department', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Canadian', 'ORGANIZATION'), ('Heritage', 'ORGANIZATION'), ('Canada', 'ORGANIZATION'), ('Music', 'ORGANIZATION'), ('Fundexchange', 'ORGANIZATION'), ('Commission', 'ORGANIZATION')]",Yes
+691,Pilot of Longview,"[('Pilot', 'O'), ('of', 'O'), ('Longview', 'LOCATION')]",No
+692,High Pay Centreshanghai Cooperation Organization,"[('High', 'O'), ('Pay', 'O'), ('Centreshanghai', 'O'), ('Cooperation', 'O'), ('Organization', 'O')]",No
+693,National Planning Policy Frameworkcivic Centre,"[('National', 'O'), ('Planning', 'O'), ('Policy', 'O'), ('Frameworkcivic', 'PERSON'), ('Centre', 'PERSON')]",No
+694,United Statesbay Port Development Noteworthy,"[('United', 'ORGANIZATION'), ('Statesbay', 'ORGANIZATION'), ('Port', 'ORGANIZATION'), ('Development', 'ORGANIZATION'), ('Noteworthy', 'ORGANIZATION')]",Yes
+695,Government Affairs Executive Vicenational Oceanic,"[('Government', 'O'), ('Affairs', 'O'), ('Executive', 'O'), ('Vicenational', 'O'), ('Oceanic', 'O')]",No
+696,Consumer Affairs Jane Garrett,"[('Consumer', 'O'), ('Affairs', 'O'), ('Jane', 'PERSON'), ('Garrett', 'PERSON')]",No
+697,Canadian National Railwaycape Coral Policereuters Technology,"[('Canadian', 'O'), ('National', 'ORGANIZATION'), ('Railwaycape', 'ORGANIZATION'), ('Coral', 'ORGANIZATION'), ('Policereuters', 'ORGANIZATION'), ('Technology', 'ORGANIZATION')]",Yes
+698,Heartland Foundationministry of The Attorney General,"[('Heartland', 'O'), ('Foundationministry', 'O'), ('of', 'O'), ('The', 'O'), ('Attorney', 'O'), ('General', 'O')]",No
+699,Clifton Groupaegean Airlines,"[('Clifton', 'PERSON'), ('Groupaegean', 'PERSON'), ('Airlines', 'PERSON')]",No
+700,Scotia,"[('Scotia', 'O')]",No
+701,European Commissionnational Instrument,"[('European', 'O'), ('Commissionnational', 'O'), ('Instrument', 'O')]",No
+702,Telecom Spectrumfort Slope in Khyber Agency,"[('Telecom', 'ORGANIZATION'), ('Spectrumfort', 'ORGANIZATION'), ('Slope', 'ORGANIZATION'), ('in', 'O'), ('Khyber', 'O'), ('Agency', 'O')]",Yes
+703,Alpha Tau Omega Fraternity,"[('Alpha', 'O'), ('Tau', 'O'), ('Omega', 'O'), ('Fraternity', 'O')]",No
+704,Parliamentary Assembly of Council of Europe,"[('Parliamentary', 'ORGANIZATION'), ('Assembly', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Council', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Europe', 'ORGANIZATION')]",Yes
+705,Oklahoma City Petroleum on Feb,"[('Oklahoma', 'LOCATION'), ('City', 'LOCATION'), ('Petroleum', 'LOCATION'), ('on', 'O'), ('Feb', 'O')]",No
+706,United Statespower,"[('United', 'PERSON'), ('Statespower', 'PERSON')]",No
+707,Harpercollins Publishers,"[('Harpercollins', 'ORGANIZATION'), ('Publishers', 'ORGANIZATION')]",Yes
+708,Himalayan Heli Services,"[('Himalayan', 'PERSON'), ('Heli', 'PERSON'), ('Services', 'PERSON')]",No
+709,Market Research Reports,"[('Market', 'O'), ('Research', 'O'), ('Reports', 'O')]",No
+710,Kansas Chamberu District Court,"[('Kansas', 'ORGANIZATION'), ('Chamberu', 'ORGANIZATION'), ('District', 'ORGANIZATION'), ('Court', 'ORGANIZATION')]",Yes
+711,Value Added Network,"[('Value', 'O'), ('Added', 'O'), ('Network', 'O')]",No
+712,United Statescypriot Parliamentdighton Commission,"[('United', 'ORGANIZATION'), ('Statescypriot', 'ORGANIZATION'), ('Parliamentdighton', 'ORGANIZATION'), ('Commission', 'ORGANIZATION')]",Yes
+713,Translational Centre,"[('Translational', 'O'), ('Centre', 'O')]",No
+714,Northern Marianas Descent,"[('Northern', 'O'), ('Marianas', 'O'), ('Descent', 'O')]",No
+715,Fttb National Broadband Network,"[('Fttb', 'ORGANIZATION'), ('National', 'ORGANIZATION'), ('Broadband', 'ORGANIZATION'), ('Network', 'ORGANIZATION')]",Yes
+716,Odisha Development Council,"[('Odisha', 'ORGANIZATION'), ('Development', 'ORGANIZATION'), ('Council', 'ORGANIZATION')]",Yes
+717,Pennsylvania Cystic Fibrosis,"[('Pennsylvania', 'LOCATION'), ('Cystic', 'O'), ('Fibrosis', 'O')]",No
+718,House Rules Committee,"[('House', 'ORGANIZATION'), ('Rules', 'ORGANIZATION'), ('Committee', 'ORGANIZATION')]",Yes
+719,Museum of Contemporary Art San Diego,"[('Museum', 'O'), ('of', 'O'), ('Contemporary', 'LOCATION'), ('Art', 'LOCATION'), ('San', 'LOCATION'), ('Diego', 'LOCATION')]",No
+720,Ukrainian Defence Ministrycenters For Disease,"[('Ukrainian', 'O'), ('Defence', 'O'), ('Ministrycenters', 'O'), ('For', 'O'), ('Disease', 'O')]",No
+721,Google Android,"[('Google', 'ORGANIZATION'), ('Android', 'O')]",Yes
+722,American Council,"[('American', 'ORGANIZATION'), ('Council', 'ORGANIZATION')]",Yes
+723,Office of Management,"[('Office', 'O'), ('of', 'O'), ('Management', 'O')]",No
+724,Paradox Development Studio,"[('Paradox', 'O'), ('Development', 'O'), ('Studio', 'O')]",No
+725,Current Campaign Phase,"[('Current', 'O'), ('Campaign', 'O'), ('Phase', 'O')]",No
+726,Zacks Companymunicipal Services,"[('Zacks', 'O'), ('Companymunicipal', 'O'), ('Services', 'O')]",No
+727,Statistics Service Rosstat,"[('Statistics', 'O'), ('Service', 'O'), ('Rosstat', 'PERSON')]",No
+728,Jersey,"[('Jersey', 'O')]",No
+729,Luke Medical Center,"[('Luke', 'PERSON'), ('Medical', 'PERSON'), ('Center', 'PERSON')]",No
+730,Discovery Communicationslos Angeles Times,"[('Discovery', 'O'), ('Communicationslos', 'O'), ('Angeles', 'O'), ('Times', 'O')]",No
+731,Disclaimer Terms of Servicebuilders of The Twin Cities,"[('Disclaimer', 'O'), ('Terms', 'O'), ('of', 'O'), ('Servicebuilders', 'O'), ('of', 'O'), ('The', 'O'), ('Twin', 'O'), ('Cities', 'O')]",No
+732,International Stroke Conference in Nashvilleu Security Council,"[('International', 'O'), ('Stroke', 'O'), ('Conference', 'O'), ('in', 'O'), ('Nashvilleu', 'ORGANIZATION'), ('Security', 'ORGANIZATION'), ('Council', 'ORGANIZATION')]",Yes
+733,Rowan County Sheriff Officeconfucius,"[('Rowan', 'LOCATION'), ('County', 'LOCATION'), ('Sheriff', 'O'), ('Officeconfucius', 'PERSON')]",No
+734,United Statesuniversity of Alberta,"[('United', 'ORGANIZATION'), ('Statesuniversity', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Alberta', 'ORGANIZATION')]",Yes
+735,School Resourcewoodlands Development,"[('School', 'O'), ('Resourcewoodlands', 'O'), ('Development', 'O')]",No
+736,Microsoftattorney Office,"[('Microsoftattorney', 'O'), ('Office', 'O')]",No
+737,Pinellas County School Districtsystems Benefit Fundfort Myer Fitness Center,"[('Pinellas', 'LOCATION'), ('County', 'LOCATION'), ('School', 'O'), ('Districtsystems', 'O'), ('Benefit', 'O'), ('Fundfort', 'O'), ('Myer', 'O'), ('Fitness', 'O'), ('Center', 'O')]",No
+738,of Illinois Black Chorus,"[('of', 'O'), ('Illinois', 'ORGANIZATION'), ('Black', 'ORGANIZATION'), ('Chorus', 'ORGANIZATION')]",Yes
+739,Postgraduate of Medical Sciences,"[('Postgraduate', 'O'), ('of', 'O'), ('Medical', 'O'), ('Sciences', 'O')]",No
+740,Salem High School,"[('Salem', 'ORGANIZATION'), ('High', 'ORGANIZATION'), ('School', 'ORGANIZATION')]",Yes
+741,Telecom Training Centrecenters For Disease,"[('Telecom', 'O'), ('Training', 'O'), ('Centrecenters', 'O'), ('For', 'O'), ('Disease', 'O')]",No
+742,Friendship Service Centertwitter,"[('Friendship', 'O'), ('Service', 'O'), ('Centertwitter', 'O')]",No
+743,United Stateswomen Big Bash Leaguethomson Reuters,"[('United', 'ORGANIZATION'), ('Stateswomen', 'ORGANIZATION'), ('Big', 'ORGANIZATION'), ('Bash', 'ORGANIZATION'), ('Leaguethomson', 'ORGANIZATION'), ('Reuters', 'ORGANIZATION')]",Yes
+744,Museum Resource Centre,"[('Museum', 'O'), ('Resource', 'O'), ('Centre', 'O')]",No
+745,National Pet Rescue Examiner on Facebookoperations Inccoalition Group,"[('National', 'ORGANIZATION'), ('Pet', 'ORGANIZATION'), ('Rescue', 'ORGANIZATION'), ('Examiner', 'ORGANIZATION'), ('on', 'O'), ('Facebookoperations', 'ORGANIZATION'), ('Inccoalition', 'ORGANIZATION'), ('Group', 'ORGANIZATION')]",Yes
+746,Credit Rating,"[('Credit', 'O'), ('Rating', 'O')]",No
+747,Member of Parliament Nalin Kumar Kateelredevelopment Authority,"[('Member', 'O'), ('of', 'O'), ('Parliament', 'O'), ('Nalin', 'PERSON'), ('Kumar', 'PERSON'), ('Kateelredevelopment', 'PERSON'), ('Authority', 'PERSON')]",No
+748,Spitz Law Firmyouth Congress,"[('Spitz', 'PERSON'), ('Law', 'PERSON'), ('Firmyouth', 'PERSON'), ('Congress', 'PERSON')]",No
+749,English at Newburgh Free Academychinh Thai Tea,"[('English', 'O'), ('at', 'O'), ('Newburgh', 'LOCATION'), ('Free', 'O'), ('Academychinh', 'O'), ('Thai', 'O'), ('Tea', 'O')]",No
+750,United Statesbellicum Pharmaceuticals,"[('United', 'ORGANIZATION'), ('Statesbellicum', 'ORGANIZATION'), ('Pharmaceuticals', 'ORGANIZATION')]",Yes
+751,Yum Brands Incfarmington Regional Chamber,"[('Yum', 'O'), ('Brands', 'O'), ('Incfarmington', 'O'), ('Regional', 'O'), ('Chamber', 'O')]",No
+752,Mcgillin Olde Ale House in Center City,"[('Mcgillin', 'ORGANIZATION'), ('Olde', 'ORGANIZATION'), ('Ale', 'ORGANIZATION'), ('House', 'ORGANIZATION'), ('in', 'O'), ('Center', 'LOCATION'), ('City', 'LOCATION')]",Yes
+753,Recording Academy,"[('Recording', 'O'), ('Academy', 'O')]",No
+754,Australian Centre For International Agricultural Research,"[('Australian', 'O'), ('Centre', 'O'), ('For', 'O'), ('International', 'ORGANIZATION'), ('Agricultural', 'ORGANIZATION'), ('Research', 'ORGANIZATION')]",Yes
+755,Derbyshire,"[('Derbyshire', 'LOCATION')]",No
+756,Sangamon State,"[('Sangamon', 'PERSON'), ('State', 'PERSON')]",No
+757,Vancouver Police at Rich,"[('Vancouver', 'ORGANIZATION'), ('Police', 'ORGANIZATION'), ('at', 'O'), ('Rich', 'O')]",Yes
+758,Kentucky Municipal Power Agency,"[('Kentucky', 'ORGANIZATION'), ('Municipal', 'ORGANIZATION'), ('Power', 'ORGANIZATION'), ('Agency', 'ORGANIZATION')]",Yes
+759,Nato Response,"[('Nato', 'ORGANIZATION'), ('Response', 'ORGANIZATION')]",Yes
+760,Zealand Superannuation Fundhockey League,"[('Zealand', 'O'), ('Superannuation', 'O'), ('Fundhockey', 'O'), ('League', 'O')]",No
+761,Tea,"[('Tea', 'O')]",No
+762,Millennium Development Goalsdowntown Development Authority,"[('Millennium', 'O'), ('Development', 'O'), ('Goalsdowntown', 'O'), ('Development', 'O'), ('Authority', 'O')]",No
+763,Television Systems Committeeorganization For Security,"[('Television', 'O'), ('Systems', 'O'), ('Committeeorganization', 'O'), ('For', 'O'), ('Security', 'O')]",No
+764,Sequoia National Park,"[('Sequoia', 'LOCATION'), ('National', 'LOCATION'), ('Park', 'LOCATION')]",No
+765,National For Cancer Research,"[('National', 'O'), ('For', 'O'), ('Cancer', 'O'), ('Research', 'O')]",No
+766,Environmental Technologies Group,"[('Environmental', 'ORGANIZATION'), ('Technologies', 'ORGANIZATION'), ('Group', 'ORGANIZATION')]",Yes
+767,Reutersgladstone Commercial,"[('Reutersgladstone', 'O'), ('Commercial', 'O')]",No
+768,Photo Western Societyanalyst Office,"[('Photo', 'O'), ('Western', 'O'), ('Societyanalyst', 'O'), ('Office', 'O')]",No
+769,Dakota High School,"[('Dakota', 'ORGANIZATION'), ('High', 'ORGANIZATION'), ('School', 'ORGANIZATION')]",Yes
+770,American Baptist in Nashville,"[('American', 'ORGANIZATION'), ('Baptist', 'ORGANIZATION'), ('in', 'O'), ('Nashville', 'LOCATION')]",Yes
+771,Nighttime Sky Watch Programjohn Spendluffe Technology Collegesealift Command Combat Logisticsauthentic Amami Oshima Tsumugi Associationhouse Armed Services Committee,"[('Nighttime', 'O'), ('Sky', 'O'), ('Watch', 'O'), ('Programjohn', 'ORGANIZATION'), ('Spendluffe', 'ORGANIZATION'), ('Technology', 'ORGANIZATION'), ('Collegesealift', 'ORGANIZATION'), ('Command', 'ORGANIZATION'), ('Combat', 'ORGANIZATION'), ('Logisticsauthentic', 'ORGANIZATION'), ('Amami', 'ORGANIZATION'), ('Oshima', 'ORGANIZATION'), ('Tsumugi', 'ORGANIZATION'), ('Associationhouse', 'ORGANIZATION'), ('Armed', 'ORGANIZATION'), ('Services', 'ORGANIZATION'), ('Committee', 'ORGANIZATION')]",Yes
+772,Marion Center Bankrevenue Service,"[('Marion', 'ORGANIZATION'), ('Center', 'ORGANIZATION'), ('Bankrevenue', 'ORGANIZATION'), ('Service', 'ORGANIZATION')]",Yes
+773,Army Technical Officers,"[('Army', 'ORGANIZATION'), ('Technical', 'O'), ('Officers', 'O')]",Yes
+774,Shanghai Gold Exchangeuniversity of North Carolina,"[('Shanghai', 'ORGANIZATION'), ('Gold', 'ORGANIZATION'), ('Exchangeuniversity', 'ORGANIZATION'), ('of', 'O'), ('North', 'LOCATION'), ('Carolina', 'LOCATION')]",Yes
+775,Biotechnology Program Office,"[('Biotechnology', 'ORGANIZATION'), ('Program', 'ORGANIZATION'), ('Office', 'ORGANIZATION')]",Yes
+776,National Anthem,"[('National', 'O'), ('Anthem', 'O')]",No
+777,Mall in Chapel Hill,"[('Mall', 'O'), ('in', 'O'), ('Chapel', 'LOCATION'), ('Hill', 'LOCATION')]",No
+778,le Moyne Collegeresearch Lab in Penang,"[('le', 'O'), ('Moyne', 'O'), ('Collegeresearch', 'O'), ('Lab', 'O'), ('in', 'O'), ('Penang', 'LOCATION')]",No
+779,National Automobile Museumnatural Sciences Sector,"[('National', 'ORGANIZATION'), ('Automobile', 'ORGANIZATION'), ('Museumnatural', 'ORGANIZATION'), ('Sciences', 'ORGANIZATION'), ('Sector', 'O')]",Yes
+780,Oval Officemohawk Industries,"[('Oval', 'O'), ('Officemohawk', 'O'), ('Industries', 'O')]",No
+781,Defence Departmentnational of Mental Health,"[('Defence', 'ORGANIZATION'), ('Departmentnational', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Mental', 'ORGANIZATION'), ('Health', 'ORGANIZATION')]",Yes
+782,Avis Budget Group,"[('Avis', 'ORGANIZATION'), ('Budget', 'ORGANIZATION'), ('Group', 'ORGANIZATION')]",Yes
+783,Arbela Historical,"[('Arbela', 'O'), ('Historical', 'O')]",No
+784,Zion National Park,"[('Zion', 'LOCATION'), ('National', 'LOCATION'), ('Park', 'LOCATION')]",No
+785,Reuterssimon-skjodt Center,"[('Reuterssimon-skjodt', 'O'), ('Center', 'O')]",No
+786,District Courtunited States,"[('District', 'O'), ('Courtunited', 'O'), ('States', 'O')]",No
+787,Jazz Pharmaceuticals,"[('Jazz', 'O'), ('Pharmaceuticals', 'O')]",No
+788,Delaware Chancery Courtu Supreme Court,"[('Delaware', 'ORGANIZATION'), ('Chancery', 'ORGANIZATION'), ('Courtu', 'ORGANIZATION'), ('Supreme', 'ORGANIZATION'), ('Court', 'ORGANIZATION')]",Yes
+789,John Locke Foundationlg Electronics Mobile Communications,"[('John', 'PERSON'), ('Locke', 'PERSON'), ('Foundationlg', 'ORGANIZATION'), ('Electronics', 'ORGANIZATION'), ('Mobile', 'ORGANIZATION'), ('Communications', 'ORGANIZATION')]",Yes
+790,Oilfield Servicesgoogle,"[('Oilfield', 'PERSON'), ('Servicesgoogle', 'PERSON')]",No
+791,Regional Public Library,"[('Regional', 'O'), ('Public', 'O'), ('Library', 'O')]",No
+792,Services,"[('Services', 'O')]",No
+793,Renewable Energy Daymedia Zone Authority,"[('Renewable', 'ORGANIZATION'), ('Energy', 'ORGANIZATION'), ('Daymedia', 'ORGANIZATION'), ('Zone', 'ORGANIZATION'), ('Authority', 'ORGANIZATION')]",Yes
+794,Ukrainian,"[('Ukrainian', 'O')]",No
+795,Brownedge st Mary High School,"[('Brownedge', 'PERSON'), ('st', 'O'), ('Mary', 'PERSON'), ('High', 'PERSON'), ('School', 'PERSON')]",No
+796,Immigration Servicesf Motor,"[('Immigration', 'O'), ('Servicesf', 'PERSON'), ('Motor', 'PERSON')]",No
+797,Department of Media Relations Carnegie Mellon,"[('Department', 'O'), ('of', 'O'), ('Media', 'O'), ('Relations', 'O'), ('Carnegie', 'PERSON'), ('Mellon', 'PERSON')]",No
+798,of Massachusetts Amherst,"[('of', 'O'), ('Massachusetts', 'LOCATION'), ('Amherst', 'LOCATION')]",No
+799,Twitterthomson Reuters of Michigan,"[('Twitterthomson', 'ORGANIZATION'), ('Reuters', 'ORGANIZATION'), ('of', 'O'), ('Michigan', 'LOCATION')]",Yes
+800,Regulation of Land Holdingshealth System,"[('Regulation', 'O'), ('of', 'O'), ('Land', 'O'), ('Holdingshealth', 'O'), ('System', 'O')]",No
+801,Old Bethel Methodist,"[('Old', 'O'), ('Bethel', 'PERSON'), ('Methodist', 'PERSON')]",No
+802,Boone County Public Librarycouncil of Europe Istanbul Convention,"[('Boone', 'ORGANIZATION'), ('County', 'ORGANIZATION'), ('Public', 'ORGANIZATION'), ('Librarycouncil', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Europe', 'ORGANIZATION'), ('Istanbul', 'ORGANIZATION'), ('Convention', 'ORGANIZATION')]",Yes
+803,Clatskanie Middle High School,"[('Clatskanie', 'ORGANIZATION'), ('Middle', 'ORGANIZATION'), ('High', 'ORGANIZATION'), ('School', 'ORGANIZATION')]",Yes
+804,Indian High Commission,"[('Indian', 'O'), ('High', 'O'), ('Commission', 'O')]",No
+805,International Halal Conference,"[('International', 'O'), ('Halal', 'O'), ('Conference', 'O')]",No
+806,Uganda Human Rights Commission,"[('Uganda', 'ORGANIZATION'), ('Human', 'ORGANIZATION'), ('Rights', 'ORGANIZATION'), ('Commission', 'ORGANIZATION')]",Yes
+807,Edo Youth Organization,"[('Edo', 'O'), ('Youth', 'O'), ('Organization', 'O')]",No
+808,Hotel Ilio,"[('Hotel', 'O'), ('Ilio', 'O')]",No
+809,Spy For The,"[('Spy', 'O'), ('For', 'O'), ('The', 'O')]",No
+810,Menlo Facebook,"[('Menlo', 'ORGANIZATION'), ('Facebook', 'ORGANIZATION')]",Yes
+811,Fish Wildlife Servicetwitter,"[('Fish', 'PERSON'), ('Wildlife', 'PERSON'), ('Servicetwitter', 'PERSON')]",No
+812,Corporate Profile Virgin America,"[('Corporate', 'O'), ('Profile', 'O'), ('Virgin', 'PERSON'), ('America', 'PERSON')]",No
+813,Sonymagnolia Pictures Internationalmedia Research Centergreat Lakes Environmental Research Labratory,"[('Sonymagnolia', 'ORGANIZATION'), ('Pictures', 'ORGANIZATION'), ('Internationalmedia', 'ORGANIZATION'), ('Research', 'ORGANIZATION'), ('Centergreat', 'ORGANIZATION'), ('Lakes', 'ORGANIZATION'), ('Environmental', 'ORGANIZATION'), ('Research', 'ORGANIZATION'), ('Labratory', 'ORGANIZATION')]",Yes
+814,Pymatuning Policeworks,"[('Pymatuning', 'O'), ('Policeworks', 'O')]",No
+815,Anaheim Regional Medical Centerdepartment of Motor Vehicles,"[('Anaheim', 'LOCATION'), ('Regional', 'O'), ('Medical', 'O'), ('Centerdepartment', 'O'), ('of', 'O'), ('Motor', 'O'), ('Vehicles', 'O')]",No
+816,Nepal Aawas,"[('Nepal', 'LOCATION'), ('Aawas', 'LOCATION')]",No
+817,Scottish National Partytahltan Central Council,"[('Scottish', 'O'), ('National', 'ORGANIZATION'), ('Partytahltan', 'ORGANIZATION'), ('Central', 'ORGANIZATION'), ('Council', 'ORGANIZATION')]",Yes
+818,Yahoosw rd,"[('Yahoosw', 'O'), ('rd', 'O')]",No
+819,Cootamundra Shire Council,"[('Cootamundra', 'ORGANIZATION'), ('Shire', 'ORGANIZATION'), ('Council', 'ORGANIZATION')]",Yes
+820,Complaints Spread to Russia Fast Companyriding Mountain National Park in Manitobaauthority of Civil Aviation Gacauniversity of Technology,"[('Complaints', 'O'), ('Spread', 'O'), ('to', 'O'), ('Russia', 'LOCATION'), ('Fast', 'LOCATION'), ('Companyriding', 'LOCATION'), ('Mountain', 'LOCATION'), ('National', 'LOCATION'), ('Park', 'LOCATION'), ('in', 'O'), ('Manitobaauthority', 'LOCATION'), ('of', 'O'), ('Civil', 'O'), ('Aviation', 'O'), ('Gacauniversity', 'O'), ('of', 'O'), ('Technology', 'O')]",No
+821,American Research,"[('American', 'ORGANIZATION'), ('Research', 'ORGANIZATION')]",Yes
+822,Broadway Theatre Center Studio Theatresupreme Council Memberoffice Lenscentury Communities,"[('Broadway', 'ORGANIZATION'), ('Theatre', 'ORGANIZATION'), ('Center', 'ORGANIZATION'), ('Studio', 'ORGANIZATION'), ('Theatresupreme', 'ORGANIZATION'), ('Council', 'ORGANIZATION'), ('Memberoffice', 'ORGANIZATION'), ('Lenscentury', 'ORGANIZATION'), ('Communities', 'ORGANIZATION')]",Yes
+823,Uttar Pradesh Judicial Services Ors,"[('Uttar', 'ORGANIZATION'), ('Pradesh', 'ORGANIZATION'), ('Judicial', 'ORGANIZATION'), ('Services', 'ORGANIZATION'), ('Ors', 'ORGANIZATION')]",Yes
+824,of Minnesotagoogle,"[('of', 'O'), ('Minnesotagoogle', 'LOCATION')]",No
+825,Waikato Master of Science,"[('Waikato', 'O'), ('Master', 'O'), ('of', 'O'), ('Science', 'O')]",No
+826,Railsplitter Antique Auto,"[('Railsplitter', 'ORGANIZATION'), ('Antique', 'ORGANIZATION'), ('Auto', 'ORGANIZATION')]",Yes
+827,Women Peacemaker Programnews Service of Florida,"[('Women', 'O'), ('Peacemaker', 'O'), ('Programnews', 'O'), ('Service', 'O'), ('of', 'O'), ('Florida', 'LOCATION')]",No
+828,Nasdaqxerox,"[('Nasdaqxerox', 'PERSON')]",No
+829,Noel Fine Art Center,"[('Noel', 'PERSON'), ('Fine', 'PERSON'), ('Art', 'PERSON'), ('Center', 'PERSON')]",No
+830,Texas Health Resources,"[('Texas', 'LOCATION'), ('Health', 'O'), ('Resources', 'O')]",No
+831,Mcmurry Indians,"[('Mcmurry', 'PERSON'), ('Indians', 'PERSON')]",No
+832,Student Disciplinary Committeemunicipal Administrationluzerne County Courtroosevelt Universityu Department of Justice,"[('Student', 'O'), ('Disciplinary', 'O'), ('Committeemunicipal', 'ORGANIZATION'), ('Administrationluzerne', 'ORGANIZATION'), ('County', 'ORGANIZATION'), ('Courtroosevelt', 'ORGANIZATION'), ('Universityu', 'ORGANIZATION'), ('Department', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Justice', 'ORGANIZATION')]",Yes
+833,National Chip Weekgoogle,"[('National', 'ORGANIZATION'), ('Chip', 'ORGANIZATION'), ('Weekgoogle', 'ORGANIZATION')]",Yes
+834,Monroe Capital Private Credit,"[('Monroe', 'ORGANIZATION'), ('Capital', 'ORGANIZATION'), ('Private', 'ORGANIZATION'), ('Credit', 'ORGANIZATION')]",Yes
+835,Jacques Gourde Conservative Partydiscovery Channel,"[('Jacques', 'ORGANIZATION'), ('Gourde', 'ORGANIZATION'), ('Conservative', 'ORGANIZATION'), ('Partydiscovery', 'ORGANIZATION'), ('Channel', 'ORGANIZATION')]",Yes
+836,China Communist Youth League,"[('China', 'LOCATION'), ('Communist', 'O'), ('Youth', 'O'), ('League', 'O')]",No
+837,Vernon Lake Cultural Center,"[('Vernon', 'O'), ('Lake', 'O'), ('Cultural', 'O'), ('Center', 'O')]",No
+838,International Livestock Judging Tour,"[('International', 'O'), ('Livestock', 'O'), ('Judging', 'O'), ('Tour', 'O')]",No
+839,Vienna Convention on Diplomatic Relations,"[('Vienna', 'O'), ('Convention', 'O'), ('on', 'O'), ('Diplomatic', 'O'), ('Relations', 'O')]",No
+840,Meeting Psychological Testing Bench Press Interviews Mondayillinois State Police,"[('Meeting', 'O'), ('Psychological', 'O'), ('Testing', 'O'), ('Bench', 'O'), ('Press', 'O'), ('Interviews', 'O'), ('Mondayillinois', 'O'), ('State', 'O'), ('Police', 'O')]",No
+841,Victoria Albert Museum,"[('Victoria', 'PERSON'), ('Albert', 'PERSON'), ('Museum', 'PERSON')]",No
+842,Public Information Center,"[('Public', 'ORGANIZATION'), ('Information', 'ORGANIZATION'), ('Center', 'ORGANIZATION')]",Yes
+843,World Bankquentin Volunteer Fire,"[('World', 'O'), ('Bankquentin', 'O'), ('Volunteer', 'O'), ('Fire', 'O')]",No
+844,Tutorial Program,"[('Tutorial', 'O'), ('Program', 'O')]",No
+845,China,"[('China', 'LOCATION')]",No
+846,Columbia Business School,"[('Columbia', 'ORGANIZATION'), ('Business', 'ORGANIZATION'), ('School', 'ORGANIZATION')]",Yes
+847,National Weather Servicemuseum of Art,"[('National', 'O'), ('Weather', 'O'), ('Servicemuseum', 'O'), ('of', 'O'), ('Art', 'O')]",No
+848,Elkhart Public Library,"[('Elkhart', 'ORGANIZATION'), ('Public', 'ORGANIZATION'), ('Library', 'ORGANIZATION')]",Yes
+849,Metis Business Solutions Pvt,"[('Metis', 'ORGANIZATION'), ('Business', 'ORGANIZATION'), ('Solutions', 'ORGANIZATION'), ('Pvt', 'ORGANIZATION')]",Yes
+850,Ministry of Environmentassociation Sport,"[('Ministry', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Environmentassociation', 'ORGANIZATION'), ('Sport', 'ORGANIZATION')]",Yes
+851,Helsinki District Court,"[('Helsinki', 'ORGANIZATION'), ('District', 'ORGANIZATION'), ('Court', 'ORGANIZATION')]",Yes
+852,United Statesministry of Marine Resources,"[('United', 'O'), ('Statesministry', 'O'), ('of', 'O'), ('Marine', 'O'), ('Resources', 'O')]",No
+853,Lake Whole Foods,"[('Lake', 'O'), ('Whole', 'O'), ('Foods', 'O')]",No
+854,Management Discussion,"[('Management', 'O'), ('Discussion', 'O')]",No
+855,Reporters Without Borderscompany on Twitter,"[('Reporters', 'O'), ('Without', 'O'), ('Borderscompany', 'O'), ('on', 'O'), ('Twitter', 'O')]",No
+856,Raytheon,"[('Raytheon', 'PERSON')]",No
+857,News Google Teamservice Cougarseuropean Council,"[('News', 'O'), ('Google', 'ORGANIZATION'), ('Teamservice', 'ORGANIZATION'), ('Cougarseuropean', 'ORGANIZATION'), ('Council', 'ORGANIZATION')]",Yes
+858,Kachin Independence Organization,"[('Kachin', 'ORGANIZATION'), ('Independence', 'ORGANIZATION'), ('Organization', 'ORGANIZATION')]",Yes
+859,Foreign Relations Committeegrape Creek Vineyards,"[('Foreign', 'O'), ('Relations', 'O'), ('Committeegrape', 'O'), ('Creek', 'O'), ('Vineyards', 'O')]",No
+860,Corporate Communications Ken Hongisraeli Defence Forces For The Jewish,"[('Corporate', 'ORGANIZATION'), ('Communications', 'ORGANIZATION'), ('Ken', 'ORGANIZATION'), ('Hongisraeli', 'ORGANIZATION'), ('Defence', 'ORGANIZATION'), ('Forces', 'O'), ('For', 'O'), ('The', 'O'), ('Jewish', 'O')]",Yes
+861,of Veterinary Medicinebishop State Community Collegemahaska County Sheriff Departmentdepartment of Foreign Affairs,"[('of', 'O'), ('Veterinary', 'ORGANIZATION'), ('Medicinebishop', 'ORGANIZATION'), ('State', 'ORGANIZATION'), ('Community', 'ORGANIZATION'), ('Collegemahaska', 'ORGANIZATION'), ('County', 'ORGANIZATION'), ('Sheriff', 'ORGANIZATION'), ('Departmentdepartment', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Foreign', 'ORGANIZATION'), ('Affairs', 'ORGANIZATION')]",Yes
+862,School Boardrosen Law Firm,"[('School', 'O'), ('Boardrosen', 'O'), ('Law', 'O'), ('Firm', 'O')]",No
+863,Counter Terrorismadvances Supply Chain Solutions Suite With,"[('Counter', 'O'), ('Terrorismadvances', 'O'), ('Supply', 'O'), ('Chain', 'O'), ('Solutions', 'O'), ('Suite', 'O'), ('With', 'O')]",No
+864,High Courtincome The,"[('High', 'O'), ('Courtincome', 'O'), ('The', 'O')]",No
+865,Libertas,"[('Libertas', 'PERSON')]",No
+866,Boston Globe,"[('Boston', 'ORGANIZATION'), ('Globe', 'ORGANIZATION')]",Yes
+867,Credit Suisse Financial Services Forum Onboeing,"[('Credit', 'ORGANIZATION'), ('Suisse', 'ORGANIZATION'), ('Financial', 'ORGANIZATION'), ('Services', 'ORGANIZATION'), ('Forum', 'ORGANIZATION'), ('Onboeing', 'ORGANIZATION')]",Yes
+868,International Typographic,"[('International', 'O'), ('Typographic', 'O')]",No
+869,Court Tribunal,"[('Court', 'O'), ('Tribunal', 'O')]",No
+870,Mexico Department of Agricultureface Rock Climbing Team,"[('Mexico', 'ORGANIZATION'), ('Department', 'ORGANIZATION'), ('of', 'O'), ('Agricultureface', 'O'), ('Rock', 'O'), ('Climbing', 'O'), ('Team', 'O')]",Yes
+871,Facebookinput Output Organizationlinn County Circuit Court on Feb,"[('Facebookinput', 'ORGANIZATION'), ('Output', 'ORGANIZATION'), ('Organizationlinn', 'ORGANIZATION'), ('County', 'ORGANIZATION'), ('Circuit', 'ORGANIZATION'), ('Court', 'ORGANIZATION'), ('on', 'O'), ('Feb', 'O')]",Yes
+872,Police Kiran Bedi,"[('Police', 'O'), ('Kiran', 'PERSON'), ('Bedi', 'PERSON')]",No
+873,United Statescouchbase,"[('United', 'LOCATION'), ('Statescouchbase', 'LOCATION')]",No
+874,Associated Presssouthern Center,"[('Associated', 'O'), ('Presssouthern', 'O'), ('Center', 'O')]",No
+875,Recognition,"[('Recognition', 'O')]",No
+876,Chemical,"[('Chemical', 'O')]",No
+877,African Regent Hotel on,"[('African', 'O'), ('Regent', 'O'), ('Hotel', 'O'), ('on', 'O')]",No
+878,Nuclear Regulatory Commissionmoi International Airporttransportation Authority,"[('Nuclear', 'ORGANIZATION'), ('Regulatory', 'ORGANIZATION'), ('Commissionmoi', 'ORGANIZATION'), ('International', 'ORGANIZATION'), ('Airporttransportation', 'ORGANIZATION'), ('Authority', 'ORGANIZATION')]",Yes
+879,Police Doyellowstone National Park,"[('Police', 'O'), ('Doyellowstone', 'O'), ('National', 'O'), ('Park', 'O')]",No
+880,Mercator Minerals,"[('Mercator', 'ORGANIZATION'), ('Minerals', 'ORGANIZATION')]",Yes
+881,Council of Governorsverizon,"[('Council', 'O'), ('of', 'O'), ('Governorsverizon', 'LOCATION')]",No
+882,Grande Hotel Budapeste Meu Favorito,"[('Grande', 'O'), ('Hotel', 'O'), ('Budapeste', 'PERSON'), ('Meu', 'PERSON'), ('Favorito', 'PERSON')]",No
+883,High Representative For Foreign Affairsassociation of Bangladesh Upazila Parishad,"[('High', 'O'), ('Representative', 'O'), ('For', 'O'), ('Foreign', 'O'), ('Affairsassociation', 'O'), ('of', 'O'), ('Bangladesh', 'LOCATION'), ('Upazila', 'LOCATION'), ('Parishad', 'LOCATION')]",No
+884,Newspaper Guild Communications Workers of America,"[('Newspaper', 'ORGANIZATION'), ('Guild', 'ORGANIZATION'), ('Communications', 'ORGANIZATION'), ('Workers', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('America', 'ORGANIZATION')]",Yes
+885,Group of Friends of Security Sector Reform,"[('Group', 'O'), ('of', 'O'), ('Friends', 'O'), ('of', 'O'), ('Security', 'O'), ('Sector', 'O'), ('Reform', 'O')]",No
+886,Stewart Elementary School,"[('Stewart', 'ORGANIZATION'), ('Elementary', 'ORGANIZATION'), ('School', 'ORGANIZATION')]",Yes
+887,Navajo Nation Council,"[('Navajo', 'ORGANIZATION'), ('Nation', 'ORGANIZATION'), ('Council', 'ORGANIZATION')]",Yes
+888,Labour Party John Deasy,"[('Labour', 'ORGANIZATION'), ('Party', 'ORGANIZATION'), ('John', 'PERSON'), ('Deasy', 'PERSON')]",Yes
+889,Business Developmenttwitter,"[('Business', 'O'), ('Developmenttwitter', 'PERSON')]",No
+890,Progressives Congresscommunity Redevelopment Agency,"[('Progressives', 'O'), ('Congresscommunity', 'O'), ('Redevelopment', 'O'), ('Agency', 'O')]",No
+891,of Directorsamerican Bar,"[('of', 'O'), ('Directorsamerican', 'O'), ('Bar', 'O')]",No
+892,Connecticut Fair Trade Coalition,"[('Connecticut', 'O'), ('Fair', 'O'), ('Trade', 'O'), ('Coalition', 'O')]",No
+893,Intelligence Agency,"[('Intelligence', 'ORGANIZATION'), ('Agency', 'ORGANIZATION')]",Yes
+894,United Statesnashville Office,"[('United', 'ORGANIZATION'), ('Statesnashville', 'ORGANIZATION'), ('Office', 'ORGANIZATION')]",Yes
+895,Certified Technology Specialisttrinamul Congress,"[('Certified', 'O'), ('Technology', 'O'), ('Specialisttrinamul', 'O'), ('Congress', 'O')]",No
+896,us Department of Energyassociation of Southeast Asian Nations,"[('us', 'O'), ('Department', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Energyassociation', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Southeast', 'ORGANIZATION'), ('Asian', 'O'), ('Nations', 'O')]",Yes
+897,Ohio Supreme Courtuniversity of Idaho Women Leadership Conference,"[('Ohio', 'ORGANIZATION'), ('Supreme', 'ORGANIZATION'), ('Courtuniversity', 'ORGANIZATION'), ('of', 'O'), ('Idaho', 'LOCATION'), ('Women', 'O'), ('Leadership', 'O'), ('Conference', 'O')]",Yes
+898,Reporters Without Borders World Press Freedom,"[('Reporters', 'O'), ('Without', 'O'), ('Borders', 'O'), ('World', 'O'), ('Press', 'O'), ('Freedom', 'O')]",No
+899,California Emerging Technology,"[('California', 'LOCATION'), ('Emerging', 'O'), ('Technology', 'O')]",No
+900,Idaho of Cities,"[('Idaho', 'LOCATION'), ('of', 'O'), ('Cities', 'O')]",No
+901,Office Practices,"[('Office', 'O'), ('Practices', 'O')]",No
+902,Annie Tarakchian,"[('Annie', 'PERSON'), ('Tarakchian', 'PERSON')]",No
+903,Hawks Point Golf in Vidalia,"[('Hawks', 'O'), ('Point', 'O'), ('Golf', 'O'), ('in', 'O'), ('Vidalia', 'LOCATION')]",No
+904,Television Journalist of The Year,"[('Television', 'O'), ('Journalist', 'O'), ('of', 'O'), ('The', 'O'), ('Year', 'O')]",No
+905,United Statesinstitute of Agriculture,"[('United', 'ORGANIZATION'), ('Statesinstitute', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Agriculture', 'ORGANIZATION')]",Yes
+906,Heartland Payment Systems,"[('Heartland', 'O'), ('Payment', 'O'), ('Systems', 'O')]",No
+907,Clark County Commodore Computer,"[('Clark', 'PERSON'), ('County', 'O'), ('Commodore', 'O'), ('Computer', 'O')]",No
+908,Illinois State Universitymmics of The Howrah Municipal Corporationdundee High School,"[('Illinois', 'ORGANIZATION'), ('State', 'ORGANIZATION'), ('Universitymmics', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('The', 'ORGANIZATION'), ('Howrah', 'ORGANIZATION'), ('Municipal', 'ORGANIZATION'), ('Corporationdundee', 'ORGANIZATION'), ('High', 'ORGANIZATION'), ('School', 'ORGANIZATION')]",Yes
+909,Front Porch Forumnational Vision,"[('Front', 'O'), ('Porch', 'O'), ('Forumnational', 'O'), ('Vision', 'O')]",No
+910,Assistance Advisory Grouprutgers,"[('Assistance', 'ORGANIZATION'), ('Advisory', 'ORGANIZATION'), ('Grouprutgers', 'ORGANIZATION')]",Yes
+911,Lantana Policecongress Onvodafone Group in Europe,"[('Lantana', 'ORGANIZATION'), ('Policecongress', 'ORGANIZATION'), ('Onvodafone', 'ORGANIZATION'), ('Group', 'ORGANIZATION'), ('in', 'O'), ('Europe', 'LOCATION')]",Yes
+912,Middle School,"[('Middle', 'O'), ('School', 'O')]",No
+913,Hewlett-packardroad High Schoolhealth of India,"[('Hewlett-packardroad', 'O'), ('High', 'O'), ('Schoolhealth', 'O'), ('of', 'O'), ('India', 'LOCATION')]",No
+914,News Ratings For Healthcare,"[('News', 'O'), ('Ratings', 'O'), ('For', 'O'), ('Healthcare', 'PERSON')]",No
+915,Xinhuaportugal National Health Serviceeuropean Central,"[('Xinhuaportugal', 'ORGANIZATION'), ('National', 'ORGANIZATION'), ('Health', 'ORGANIZATION'), ('Serviceeuropean', 'ORGANIZATION'), ('Central', 'ORGANIZATION')]",Yes
+916,Critter Court,"[('Critter', 'O'), ('Court', 'O')]",No
+917,Stanford Universitysegment Performance South Carolina Electric Gas,"[('Stanford', 'ORGANIZATION'), ('Universitysegment', 'ORGANIZATION'), ('Performance', 'ORGANIZATION'), ('South', 'ORGANIZATION'), ('Carolina', 'ORGANIZATION'), ('Electric', 'ORGANIZATION'), ('Gas', 'ORGANIZATION')]",Yes
+918,Pwc Africa Oilchandigarh Educationist Associationuniversity of Hawaii,"[('Pwc', 'ORGANIZATION'), ('Africa', 'ORGANIZATION'), ('Oilchandigarh', 'ORGANIZATION'), ('Educationist', 'ORGANIZATION'), ('Associationuniversity', 'ORGANIZATION'), ('of', 'O'), ('Hawaii', 'LOCATION')]",Yes
+919,National Weather Serviceunion Cabinet,"[('National', 'O'), ('Weather', 'O'), ('Serviceunion', 'O'), ('Cabinet', 'O')]",No
+920,International Journalist of The Yearcambridge,"[('International', 'O'), ('Journalist', 'O'), ('of', 'O'), ('The', 'O'), ('Yearcambridge', 'O')]",No
+921,United Statesjapan National Press,"[('United', 'ORGANIZATION'), ('Statesjapan', 'ORGANIZATION'), ('National', 'ORGANIZATION'), ('Press', 'ORGANIZATION')]",Yes
+922,Natural Gas Ministryally Financial,"[('Natural', 'O'), ('Gas', 'O'), ('Ministryally', 'O'), ('Financial', 'O')]",No
+923,Boswell Energy Center,"[('Boswell', 'ORGANIZATION'), ('Energy', 'ORGANIZATION'), ('Center', 'ORGANIZATION')]",Yes
+924,News Network Power Politicscenters For Disease,"[('News', 'O'), ('Network', 'O'), ('Power', 'O'), ('Politicscenters', 'O'), ('For', 'O'), ('Disease', 'O')]",No
+925,Israeli Central Election Committeenational Party,"[('Israeli', 'ORGANIZATION'), ('Central', 'ORGANIZATION'), ('Election', 'ORGANIZATION'), ('Committeenational', 'ORGANIZATION'), ('Party', 'ORGANIZATION')]",Yes
+926,Baba Guru Nanak Universityprison Officers,"[('Baba', 'PERSON'), ('Guru', 'PERSON'), ('Nanak', 'PERSON'), ('Universityprison', 'PERSON'), ('Officers', 'PERSON')]",No
+927,Resource Partnership,"[('Resource', 'O'), ('Partnership', 'O')]",No
+928,Vocational Education Commission,"[('Vocational', 'ORGANIZATION'), ('Education', 'ORGANIZATION'), ('Commission', 'ORGANIZATION')]",Yes
+929,Business Opportunities Programme,"[('Business', 'O'), ('Opportunities', 'O'), ('Programme', 'O')]",No
+930,Patriotic Partygovernor Veterans Service Award Medal,"[('Patriotic', 'O'), ('Partygovernor', 'O'), ('Veterans', 'O'), ('Service', 'O'), ('Award', 'O'), ('Medal', 'O')]",No
+931,Save The Philippines Movementplano Aquatic Centerhale Centre Theatrecleveland State,"[('Save', 'O'), ('The', 'O'), ('Philippines', 'LOCATION'), ('Movementplano', 'LOCATION'), ('Aquatic', 'O'), ('Centerhale', 'O'), ('Centre', 'O'), ('Theatrecleveland', 'O'), ('State', 'O')]",No
+932,Pacific National Exhibitionsub Engineer Malakand,"[('Pacific', 'LOCATION'), ('National', 'O'), ('Exhibitionsub', 'O'), ('Engineer', 'O'), ('Malakand', 'O')]",No
+933,Public Servicewhitman Collegeshale Plays Media,"[('Public', 'O'), ('Servicewhitman', 'O'), ('Collegeshale', 'O'), ('Plays', 'O'), ('Media', 'O')]",No
+934,Grassroots Organization Offers Free Health Screening,"[('Grassroots', 'O'), ('Organization', 'O'), ('Offers', 'O'), ('Free', 'O'), ('Health', 'O'), ('Screening', 'O')]",No
+935,Vero Beach High Schoolwindows Control Panel,"[('Vero', 'LOCATION'), ('Beach', 'LOCATION'), ('High', 'O'), ('Schoolwindows', 'O'), ('Control', 'O'), ('Panel', 'O')]",No
+936,Engineering Sciences,"[('Engineering', 'O'), ('Sciences', 'O')]",No
+937,James Hall,"[('James', 'PERSON'), ('Hall', 'PERSON')]",No
+938,National Conferenceindiana,"[('National', 'O'), ('Conferenceindiana', 'O')]",No
+939,Disciplinary Committee,"[('Disciplinary', 'O'), ('Committee', 'O')]",No
+940,Achievement Program,"[('Achievement', 'O'), ('Program', 'O')]",No
+941,Production Month Oilemerson Electric,"[('Production', 'ORGANIZATION'), ('Month', 'ORGANIZATION'), ('Oilemerson', 'ORGANIZATION'), ('Electric', 'ORGANIZATION')]",Yes
+942,Bakrie Telecom,"[('Bakrie', 'ORGANIZATION'), ('Telecom', 'ORGANIZATION')]",Yes
+943,ap Viswanatham Medical,"[('ap', 'O'), ('Viswanatham', 'O'), ('Medical', 'O')]",No
+944,Heathwood Court Town Homes Horizontal Property Regime,"[('Heathwood', 'ORGANIZATION'), ('Court', 'ORGANIZATION'), ('Town', 'ORGANIZATION'), ('Homes', 'ORGANIZATION'), ('Horizontal', 'ORGANIZATION'), ('Property', 'ORGANIZATION'), ('Regime', 'ORGANIZATION')]",Yes
+945,Richland County Council,"[('Richland', 'LOCATION'), ('County', 'LOCATION'), ('Council', 'O')]",No
+946,Coquille Watershed,"[('Coquille', 'PERSON'), ('Watershed', 'PERSON')]",No
+947,American Legionportland Police Department Crime Reduction Unit,"[('American', 'ORGANIZATION'), ('Legionportland', 'ORGANIZATION'), ('Police', 'ORGANIZATION'), ('Department', 'ORGANIZATION'), ('Crime', 'ORGANIZATION'), ('Reduction', 'ORGANIZATION'), ('Unit', 'ORGANIZATION')]",Yes
+948,United States Speciality Sports,"[('United', 'O'), ('States', 'O'), ('Speciality', 'O'), ('Sports', 'O')]",No
+949,Patrons of The Zimbabwe Democraticbmw,"[('Patrons', 'O'), ('of', 'O'), ('The', 'O'), ('Zimbabwe', 'O'), ('Democraticbmw', 'O')]",No
+950,Boundaries Commission,"[('Boundaries', 'O'), ('Commission', 'O')]",No
+951,Tesla Motorstwitter,"[('Tesla', 'PERSON'), ('Motorstwitter', 'PERSON')]",No
+952,Farragut High School,"[('Farragut', 'ORGANIZATION'), ('High', 'ORGANIZATION'), ('School', 'ORGANIZATION')]",Yes
+953,American Symphony Orchestra League,"[('American', 'ORGANIZATION'), ('Symphony', 'ORGANIZATION'), ('Orchestra', 'ORGANIZATION'), ('League', 'ORGANIZATION')]",Yes
+954,Kennebec County Superior Courtcenters For Disease,"[('Kennebec', 'LOCATION'), ('County', 'LOCATION'), ('Superior', 'O'), ('Courtcenters', 'O'), ('For', 'O'), ('Disease', 'O')]",No
+955,Development Funduniversity Ave,"[('Development', 'O'), ('Funduniversity', 'O'), ('Ave', 'O')]",No
+956,Ethical Service Medalunited India Conorthern Alliance,"[('Ethical', 'ORGANIZATION'), ('Service', 'ORGANIZATION'), ('Medalunited', 'ORGANIZATION'), ('India', 'ORGANIZATION'), ('Conorthern', 'ORGANIZATION'), ('Alliance', 'ORGANIZATION')]",Yes
+957,Tipperaryfinancial Group,"[('Tipperaryfinancial', 'ORGANIZATION'), ('Group', 'ORGANIZATION')]",Yes
+958,Time Warner Companymarketwatch,"[('Time', 'ORGANIZATION'), ('Warner', 'ORGANIZATION'), ('Companymarketwatch', 'ORGANIZATION')]",Yes
+959,un Security Councilfavourite Supermarketresearch Development Services,"[('un', 'O'), ('Security', 'O'), ('Councilfavourite', 'O'), ('Supermarketresearch', 'O'), ('Development', 'O'), ('Services', 'O')]",No
+960,First Financial Group,"[('First', 'ORGANIZATION'), ('Financial', 'ORGANIZATION'), ('Group', 'ORGANIZATION')]",Yes
+961,Westfield Center,"[('Westfield', 'ORGANIZATION'), ('Center', 'ORGANIZATION')]",Yes
+962,Reutersghana Railway Development Authority,"[('Reutersghana', 'ORGANIZATION'), ('Railway', 'ORGANIZATION'), ('Development', 'ORGANIZATION'), ('Authority', 'ORGANIZATION')]",Yes
+963,National Assemblybrazilian of Animal Proteinscripps Research,"[('National', 'O'), ('Assemblybrazilian', 'O'), ('of', 'O'), ('Animal', 'ORGANIZATION'), ('Proteinscripps', 'ORGANIZATION'), ('Research', 'ORGANIZATION')]",Yes
+964,King Abdullah of Scienceuc Davis Cancer Centre in Sacramento,"[('King', 'O'), ('Abdullah', 'PERSON'), ('of', 'O'), ('Scienceuc', 'LOCATION'), ('Davis', 'LOCATION'), ('Cancer', 'LOCATION'), ('Centre', 'LOCATION'), ('in', 'O'), ('Sacramento', 'LOCATION')]",No
+965,United Statesmonetary Authority of Singaporemetal Museum,"[('United', 'ORGANIZATION'), ('Statesmonetary', 'ORGANIZATION'), ('Authority', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Singaporemetal', 'ORGANIZATION'), ('Museum', 'ORGANIZATION')]",Yes
+966,Fast Market Research Fast Market Researchnational Signing Day,"[('Fast', 'O'), ('Market', 'O'), ('Research', 'O'), ('Fast', 'O'), ('Market', 'O'), ('Researchnational', 'O'), ('Signing', 'O'), ('Day', 'O')]",No
+967,United Stateseconomic Development,"[('United', 'ORGANIZATION'), ('Stateseconomic', 'ORGANIZATION'), ('Development', 'ORGANIZATION')]",Yes
+968,County Public Health Departmentcountry Drive in Palm Desert,"[('County', 'ORGANIZATION'), ('Public', 'ORGANIZATION'), ('Health', 'ORGANIZATION'), ('Departmentcountry', 'ORGANIZATION'), ('Drive', 'ORGANIZATION'), ('in', 'O'), ('Palm', 'LOCATION'), ('Desert', 'LOCATION')]",Yes
+969,Head of Office,"[('Head', 'O'), ('of', 'O'), ('Office', 'O')]",No
+970,American Littoral,"[('American', 'ORGANIZATION'), ('Littoral', 'ORGANIZATION')]",Yes
+971,Senate Labor,"[('Senate', 'ORGANIZATION'), ('Labor', 'ORGANIZATION')]",Yes
+972,United States Triathlon,"[('United', 'LOCATION'), ('States', 'LOCATION'), ('Triathlon', 'LOCATION')]",No
+973,ad Standards Council,"[('ad', 'O'), ('Standards', 'O'), ('Council', 'O')]",No
+974,Academy Awardmemphi Ridgeway Country,"[('Academy', 'O'), ('Awardmemphi', 'O'), ('Ridgeway', 'O'), ('Country', 'O')]",No
+975,Oil Conservation Commission,"[('Oil', 'O'), ('Conservation', 'O'), ('Commission', 'O')]",No
+976,United Stateseconomic Development Sedalia-pettis,"[('United', 'O'), ('Stateseconomic', 'O'), ('Development', 'O'), ('Sedalia-pettis', 'O')]",No
+977,Yorkshire Police Economic Crime Unit,"[('Yorkshire', 'ORGANIZATION'), ('Police', 'ORGANIZATION'), ('Economic', 'ORGANIZATION'), ('Crime', 'ORGANIZATION'), ('Unit', 'ORGANIZATION')]",Yes
+978,Study Abroad Officeeducation Ministry,"[('Study', 'O'), ('Abroad', 'O'), ('Officeeducation', 'O'), ('Ministry', 'O')]",No
+979,Dupont de Nemours,"[('Dupont', 'ORGANIZATION'), ('de', 'ORGANIZATION'), ('Nemours', 'ORGANIZATION')]",Yes
+980,Services Market,"[('Services', 'O'), ('Market', 'O')]",No
+981,Takeda Pharmaceutical,"[('Takeda', 'PERSON'), ('Pharmaceutical', 'PERSON')]",No
+982,Prognostic Technology in Industry,"[('Prognostic', 'O'), ('Technology', 'O'), ('in', 'O'), ('Industry', 'O')]",No
+983,Children Task Force,"[('Children', 'O'), ('Task', 'O'), ('Force', 'O')]",No
+984,Spanish Benefits Learning Center,"[('Spanish', 'O'), ('Benefits', 'O'), ('Learning', 'O'), ('Center', 'O')]",No
+985,Retiree Health Care,"[('Retiree', 'O'), ('Health', 'O'), ('Care', 'O')]",No
+986,Global Enterprises Group,"[('Global', 'ORGANIZATION'), ('Enterprises', 'ORGANIZATION'), ('Group', 'ORGANIZATION')]",Yes
+987,Schemel Forum World Affairs Luncheon Series,"[('Schemel', 'PERSON'), ('Forum', 'O'), ('World', 'O'), ('Affairs', 'O'), ('Luncheon', 'O'), ('Series', 'O')]",No
+988,Loews Regency Hotel,"[('Loews', 'O'), ('Regency', 'O'), ('Hotel', 'O')]",No
+989,Yorkville Endoscopy Center,"[('Yorkville', 'ORGANIZATION'), ('Endoscopy', 'ORGANIZATION'), ('Center', 'ORGANIZATION')]",Yes
+990,Heraldry of Australasia,"[('Heraldry', 'O'), ('of', 'O'), ('Australasia', 'LOCATION')]",No
+991,First Alert Storm Teamfacebook,"[('First', 'O'), ('Alert', 'O'), ('Storm', 'O'), ('Teamfacebook', 'O')]",No
+992,Waukesha County Sheriff Department,"[('Waukesha', 'ORGANIZATION'), ('County', 'ORGANIZATION'), ('Sheriff', 'ORGANIZATION'), ('Department', 'ORGANIZATION')]",Yes
+993,United Nations Office of Drugs,"[('United', 'ORGANIZATION'), ('Nations', 'ORGANIZATION'), ('Office', 'ORGANIZATION'), ('of', 'ORGANIZATION'), ('Drugs', 'ORGANIZATION')]",Yes
+994,Zealand Incpine Tree High School,"[('Zealand', 'O'), ('Incpine', 'O'), ('Tree', 'O'), ('High', 'O'), ('School', 'O')]",No
